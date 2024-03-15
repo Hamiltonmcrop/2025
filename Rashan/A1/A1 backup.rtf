@@ -1,0 +1,238 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red183\green111\blue179;\red23\green23\blue23;\red70\green137\blue204;
+\red194\green126\blue101;\red202\green202\blue202;\red212\green214\blue154;\red67\green192\blue160;\red140\green211\blue254;
+\red205\green173\blue106;\red167\green197\blue152;\red89\green138\blue67;}
+{\*\expandedcolortbl;;\cssrgb\c77255\c52549\c75294;\cssrgb\c11765\c11765\c11765;\cssrgb\c33725\c61176\c83922;
+\cssrgb\c80784\c56863\c47059;\cssrgb\c83137\c83137\c83137;\cssrgb\c86275\c86275\c66667;\cssrgb\c30588\c78824\c69020;\cssrgb\c61176\c86275\c99608;
+\cssrgb\c84314\c72941\c49020;\cssrgb\c70980\c80784\c65882;\cssrgb\c41569\c60000\c33333;}
+\margl1440\margr1440\vieww28600\viewh15700\viewkind0
+\deftab720
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 #include\cf4 \strokec4  \cf5 \strokec5 "list.h"\cf6 \cb1 \strokec6 \
+\cf2 \cb3 \strokec2 #include\cf4 \strokec4  \cf5 \strokec5 <stdio.h>\cf6 \cb1 \strokec6 \
+\cf2 \cb3 \strokec2 #include\cf4 \strokec4  \cf5 \strokec5 <assert.h>\cf6 \cb1 \strokec6 \
+\cf2 \cb3 \strokec2 #include\cf4 \strokec4  \cf5 \strokec5 <string.h>\cf6 \cb1 \strokec6 \
+\cf2 \cb3 \strokec2 #include\cf4 \strokec4  \cf5 \strokec5 <stdlib.h>\cf6 \cb1 \strokec6 \
+\
+\pard\pardeftab720\sl360\partightenfactor0
+\cf4 \cb3 \strokec4 void\cf6 \strokec6  \cf7 \strokec7 ShowLinkedList\cf6 \strokec6 (\cf8 \strokec8 List\cf6 \strokec6 * \cf9 \strokec9 pList\cf6 \strokec6 ) \{\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf6 \cb3   \cf7 \strokec7 printf\cf6 \strokec6 (\cf5 \strokec5 "first node->"\cf6 \strokec6 );\cb1 \
+\cb3   \cf8 \strokec8 Node\cf6 \strokec6 * \cf9 \strokec9 node\cf6 \strokec6  = \cf9 \strokec9 pList\cf6 \strokec6 ->\cf9 \strokec9 head\cf6 \strokec6 ;\cb1 \
+\cb3   \cf2 \strokec2 while\cf6 \strokec6  (\cf9 \strokec9 node\cf6 \strokec6  != \cf4 \strokec4 NULL\cf6 \strokec6 ) \{\cb1 \
+\cb3     \cf2 \strokec2 if\cf6 \strokec6  (\cf9 \strokec9 node\cf6 \strokec6  == \cf9 \strokec9 pList\cf6 \strokec6 ->\cf9 \strokec9 current\cf6 \strokec6 ) \{\cb1 \
+\cb3       \cf7 \strokec7 printf\cf6 \strokec6 (\cf5 \strokec5 "node: %d \cf10 \strokec10 \\n\cf5 \strokec5 "\cf6 \strokec6 , *(\cf4 \strokec4 int\cf6 \strokec6 *)\cf9 \strokec9 node\cf6 \strokec6 ->\cf9 \strokec9 data\cf6 \strokec6 );\cb1 \
+\cb3     \}\cb1 \
+\cb3     \cf2 \strokec2 else\cf6 \strokec6  \{\cb1 \
+\cb3       \cf7 \strokec7 printf\cf6 \strokec6 (\cf5 \strokec5 "node: %d \cf10 \strokec10 \\n\cf5 \strokec5 "\cf6 \strokec6 , *(\cf4 \strokec4 int\cf6 \strokec6 *)\cf9 \strokec9 node\cf6 \strokec6 ->\cf9 \strokec9 data\cf6 \strokec6 );\cb1 \
+\cb3     \}\cb1 \
+\cb3     \cf9 \strokec9 node\cf6 \strokec6  = \cf9 \strokec9 node\cf6 \strokec6 ->\cf9 \strokec9 next\cf6 \strokec6 ;\cb1 \
+\cb3   \}\cb1 \
+\cb3   \cf7 \strokec7 printf\cf6 \strokec6 (\cf5 \strokec5 " <-last node\cf10 \strokec10 \\n\cf5 \strokec5 "\cf6 \strokec6 );\cb1 \
+\cb3 \} \cb1 \
+\
+\pard\pardeftab720\sl360\partightenfactor0
+\cf4 \cb3 \strokec4 bool\cf6 \strokec6  \cf7 \strokec7 pComparator\cf6 \strokec6 (\cf4 \strokec4 void\cf6 \strokec6 * \cf9 \strokec9 pItem\cf6 \strokec6 , \cf4 \strokec4 void\cf6 \strokec6 * \cf9 \strokec9 comparator\cf6 \strokec6 )\{\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf6 \cb3     \cf2 \strokec2 if\cf6 \strokec6 (\cf9 \strokec9 pItem\cf6 \strokec6  == \cf9 \strokec9 comparator\cf6 \strokec6 )\{\cb1 \
+\cb3         \cf2 \strokec2 return\cf6 \strokec6  \cf11 \strokec11 1\cf6 \strokec6 ;\cb1 \
+\cb3     \}\cf2 \strokec2 else\cf6 \strokec6 \{\cb1 \
+\cb3         \cf2 \strokec2 return\cf6 \strokec6  \cf11 \strokec11 0\cf6 \strokec6 ; \cb1 \
+\cb3     \}\cb1 \
+\cb3 \}\cb1 \
+\
+\pard\pardeftab720\sl360\partightenfactor0
+\cf12 \cb3 \strokec12 //Test program\cf6 \cb1 \strokec6 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf4 \cb3 \strokec4 void\cf6 \strokec6  \cf7 \strokec7 List_test\cf6 \strokec6 ()\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf6 \cb3 \{\cb1 \
+\cb3     \cf12 \strokec12 // Create list\cf6 \cb1 \strokec6 \
+\cb3     \cf8 \strokec8 List\cf6 \strokec6 * \cf9 \strokec9 test1\cf6 \strokec6  = \cf7 \strokec7 List_create\cf6 \strokec6 ();\cb1 \
+\cb3     \cf8 \strokec8 List\cf6 \strokec6 * \cf9 \strokec9 test2\cf6 \strokec6  = \cf7 \strokec7 List_create\cf6 \strokec6 ();\cb1 \
+\cb3     \cf8 \strokec8 List\cf6 \strokec6 * \cf9 \strokec9 test3\cf6 \strokec6  = \cf7 \strokec7 List_create\cf6 \strokec6 ();\cb1 \
+\cb3     \cf8 \strokec8 List\cf6 \strokec6 * \cf9 \strokec9 test4\cf6 \strokec6  = \cf7 \strokec7 List_create\cf6 \strokec6 ();\cb1 \
+\cb3     \cf8 \strokec8 List\cf6 \strokec6 * \cf9 \strokec9 test5\cf6 \strokec6  = \cf7 \strokec7 List_create\cf6 \strokec6 ();\cb1 \
+\cb3     \cf8 \strokec8 List\cf6 \strokec6 * \cf9 \strokec9 test6\cf6 \strokec6  = \cf7 \strokec7 List_create\cf6 \strokec6 ();\cb1 \
+\
+\cb3     \cf12 \strokec12 // Empty List\cf6 \cb1 \strokec6 \
+\cb3     \cf2 \strokec2 if\cf6 \strokec6 (\cf9 \strokec9 test1\cf6 \strokec6  != \cf4 \strokec4 NULL\cf6 \strokec6 )\{\cb1 \
+\cb3         \cf2 \strokec2 if\cf6 \strokec6 (\cf9 \strokec9 test2\cf6 \strokec6  != \cf4 \strokec4 NULL\cf6 \strokec6 )\{\cb1 \
+\cb3             \cf2 \strokec2 if\cf6 \strokec6 (\cf9 \strokec9 test3\cf6 \strokec6  != \cf4 \strokec4 NULL\cf6 \strokec6 )\{\cb1 \
+\cb3                 \cf2 \strokec2 if\cf6 \strokec6 (\cf9 \strokec9 test4\cf6 \strokec6  != \cf4 \strokec4 NULL\cf6 \strokec6 )\{\cb1 \
+\cb3                     \cf2 \strokec2 if\cf6 \strokec6 (\cf9 \strokec9 test5\cf6 \strokec6  != \cf4 \strokec4 NULL\cf6 \strokec6 )\{\cb1 \
+\cb3                         \cf2 \strokec2 if\cf6 \strokec6 (\cf9 \strokec9 test6\cf6 \strokec6  != \cf4 \strokec4 NULL\cf6 \strokec6 )\{\cb1 \
+\cb3                             \cf7 \strokec7 printf\cf6 \strokec6 (\cf5 \strokec5 "EMPTY LIST IS CREATED \cf10 \strokec10 \\n\cf5 \strokec5 "\cf6 \strokec6 );\cb1 \
+\cb3                         \}\cb1 \
+\cb3                     \}\cb1 \
+\cb3                 \}\cb1 \
+\cb3             \}\cb1 \
+\cb3         \}\cb1 \
+\cb3     \}\cb1 \
+\cb3      \cf12 \strokec12 // Add \cf6 \cb1 \strokec6 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 add1\cf6 \strokec6  = \cf11 \strokec11 3\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 add2\cf6 \strokec6  = \cf11 \strokec11 45\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 add3\cf6 \strokec6  = \cf11 \strokec11 23\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 add4\cf6 \strokec6  = \cf11 \strokec11 9\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 add5\cf6 \strokec6  = \cf11 \strokec11 0\cf6 \strokec6 ;\cb1 \
+\cb3         \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_add\cf6 \strokec6 (\cf9 \strokec9 test1\cf6 \strokec6 , &\cf9 \strokec9 add1\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3             \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_add\cf6 \strokec6 (\cf9 \strokec9 test1\cf6 \strokec6 , &\cf9 \strokec9 add2\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3                 \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_add\cf6 \strokec6 (\cf9 \strokec9 test1\cf6 \strokec6 , &\cf9 \strokec9 add3\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3                     \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_add\cf6 \strokec6 (\cf9 \strokec9 test1\cf6 \strokec6 , &\cf9 \strokec9 add4\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3                         \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_add\cf6 \strokec6 (\cf9 \strokec9 test1\cf6 \strokec6 ,&\cf9 \strokec9 add5\cf6 \strokec6 ) == -\cf11 \strokec11 1\cf6 \strokec6 )\{\cb1 \
+\cb3                         \cf7 \strokec7 printf\cf6 \strokec6 (\cf5 \strokec5 "List_add WORKED \cf10 \strokec10 \\n\cf5 \strokec5 "\cf6 \strokec6 );\cb1 \
+\cb3                         \cf7 \strokec7 ShowLinkedList\cf6 \strokec6 (\cf9 \strokec9 test1\cf6 \strokec6 );\cb1 \
+\cb3                         \}\cb1 \
+\cb3                     \cb1 \
+\cb3                 \}\cb1 \
+\cb3             \}\cb1 \
+\cb3         \}\cb1 \
+\cb3     \}\cb1 \
+\cb3     \cb1 \
+\cb3     \cf12 \strokec12 // INSERT\cf6 \cb1 \strokec6 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 insert1\cf6 \strokec6  = \cf11 \strokec11 3\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 insert2\cf6 \strokec6  = \cf11 \strokec11 45\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 insert3\cf6 \strokec6  = \cf11 \strokec11 23\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 insert4\cf6 \strokec6  = \cf11 \strokec11 9\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 insert5\cf6 \strokec6  = \cf11 \strokec11 0\cf6 \strokec6 ;\cb1 \
+\cb3     \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_insert\cf6 \strokec6 (\cf9 \strokec9 test2\cf6 \strokec6 , &\cf9 \strokec9 insert1\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3         \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_insert\cf6 \strokec6 (\cf9 \strokec9 test2\cf6 \strokec6 , &\cf9 \strokec9 insert2\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3             \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_insert\cf6 \strokec6 (\cf9 \strokec9 test2\cf6 \strokec6 , &\cf9 \strokec9 insert3\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3                 \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_insert\cf6 \strokec6 (\cf9 \strokec9 test2\cf6 \strokec6 , &\cf9 \strokec9 insert4\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3                     \cf7 \strokec7 printf\cf6 \strokec6 (\cf5 \strokec5 "List_insert WORKED \cf10 \strokec10 \\n\cf5 \strokec5 "\cf6 \strokec6 );\cb1 \
+\cb3                     \cf7 \strokec7 ShowLinkedList\cf6 \strokec6 (\cf9 \strokec9 test2\cf6 \strokec6 );\cb1 \
+\cb3                 \}\cb1 \
+\cb3             \}\cb1 \
+\cb3         \}\cb1 \
+\cb3     \}\cb1 \
+\
+\cb3     \cf12 \strokec12 // APPEND\cf6 \cb1 \strokec6 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 append1\cf6 \strokec6  = \cf11 \strokec11 3\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 append2\cf6 \strokec6  = \cf11 \strokec11 45\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 append3\cf6 \strokec6  = \cf11 \strokec11 23\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 append4\cf6 \strokec6  = \cf11 \strokec11 9\cf6 \strokec6 ;\cb1 \
+\cb3     \cf12 \strokec12 //int append5 = 0;\cf6 \cb1 \strokec6 \
+\cb3     \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_append\cf6 \strokec6 (\cf9 \strokec9 test3\cf6 \strokec6 , &\cf9 \strokec9 append1\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3         \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_append\cf6 \strokec6 (\cf9 \strokec9 test3\cf6 \strokec6 , &\cf9 \strokec9 append2\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3             \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_append\cf6 \strokec6 (\cf9 \strokec9 test3\cf6 \strokec6 , &\cf9 \strokec9 append3\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3                 \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_append\cf6 \strokec6 (\cf9 \strokec9 test3\cf6 \strokec6 , &\cf9 \strokec9 append4\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3                         \cf7 \strokec7 printf\cf6 \strokec6 (\cf5 \strokec5 "List_append WORKED \cf10 \strokec10 \\n\cf5 \strokec5 "\cf6 \strokec6 );\cb1 \
+\cb3                         \cf7 \strokec7 ShowLinkedList\cf6 \strokec6 (\cf9 \strokec9 test3\cf6 \strokec6 );\cb1 \
+\cb3                 \}\cb1 \
+\cb3             \}\cb1 \
+\cb3         \}\cb1 \
+\cb3     \}\cb1 \
+\
+\cb3     \cf7 \strokec7 printf\cf6 \strokec6 (\cf5 \strokec5 "list remove %p"\cf6 \strokec6 ,\cf7 \strokec7 List_remove\cf6 \strokec6 (\cf9 \strokec9 test3\cf6 \strokec6 ));\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf12 \cb3 \strokec12 //     int a = 3;\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //     List* list = List_create();\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //     List_append(list,&a);\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    if(List_remove(list)==&a)\{\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //        printf("SUUCCC\\n");\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    \}\cf6 \cb1 \strokec6 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf6 \cb3     \cf12 \strokec12 // PREPEND\cf6 \cb1 \strokec6 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 prepend1\cf6 \strokec6  = \cf11 \strokec11 3\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 prepend2\cf6 \strokec6  = \cf11 \strokec11 45\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 prepend3\cf6 \strokec6  = \cf11 \strokec11 23\cf6 \strokec6 ;\cb1 \
+\cb3     \cf4 \strokec4 int\cf6 \strokec6  \cf9 \strokec9 prepend4\cf6 \strokec6  = \cf11 \strokec11 9\cf6 \strokec6 ;\cb1 \
+\cb3     \cf12 \strokec12 //int prepend5 = 0;\cf6 \cb1 \strokec6 \
+\cb3     \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_prepend\cf6 \strokec6 (\cf9 \strokec9 test4\cf6 \strokec6 , &\cf9 \strokec9 prepend1\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3         \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_prepend\cf6 \strokec6 (\cf9 \strokec9 test4\cf6 \strokec6 , &\cf9 \strokec9 prepend2\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3             \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_prepend\cf6 \strokec6 (\cf9 \strokec9 test4\cf6 \strokec6 , &\cf9 \strokec9 prepend3\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3                 \cf2 \strokec2 if\cf6 \strokec6 (\cf7 \strokec7 List_prepend\cf6 \strokec6 (\cf9 \strokec9 test4\cf6 \strokec6 , &\cf9 \strokec9 prepend4\cf6 \strokec6 ) == \cf11 \strokec11 0\cf6 \strokec6 )\{\cb1 \
+\cb3                         \cf7 \strokec7 printf\cf6 \strokec6 (\cf5 \strokec5 "List_prepend WORKED \cf10 \strokec10 \\n\cf5 \strokec5 "\cf6 \strokec6 );\cb1 \
+\cb3                         \cf7 \strokec7 ShowLinkedList\cf6 \strokec6 (\cf9 \strokec9 test4\cf6 \strokec6 );\cb1 \
+\cb3                 \}\cb1 \
+\cb3             \}\cb1 \
+\cb3         \}\cb1 \
+\cb3     \}\cb1 \
+\
+\cb3     \cf12 \strokec12 //NEXT and PREV\cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 // int a = 3;\cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 // int b = 5;\cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 // List_add(test6,&a);\cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 // printf("I AM HERE");\cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 // List_append(test6,&b);\cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 // if(List_first(test6) == &a)\{\cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 //     printf("first");\cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 //     if(List_next(test6) == &b)\{\cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 //             if(List_prev(test6) == &a)\{\cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 //                 printf("List_fist,List_next,List_prev WORKED \\n");  \cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 //                 ShowLinkedList(test6);    \cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 //         \}\cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 //     \}\cf6 \cb1 \strokec6 \
+\cb3     \cf12 \strokec12 // \}\cf6 \cb1 \strokec6 \
+\
+\cb3     \cf12 \strokec12 //REMOVE \cf6 \cb1 \strokec6 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf12 \cb3 \strokec12 //    //if(List_first(test3) == &append1)\{\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //        if(List_remove(test3) == &append1)\{\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //            printf("List_remove WORKED \\n");\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //            printf("REMOVED ITEM: %p", List_remove(test3));\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //            printf("FIRST %p", List_first(test3));\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //            ShowLinkedList(test3);\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //        \}\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    //\}\cf6 \cb1 \strokec6 \
+\
+\cf12 \cb3 \strokec12 //    //Trim \cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    int c = 4;\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    int d =7;\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    List_add(test6,&c);\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    List_append(test6,&d);\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    if(List_trim(test6)==&d)\{\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //        printf("List_trim WORKED \\n");\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //        ShowLinkedList(test6);\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    \}\cf6 \cb1 \strokec6 \
+\
+\cf12 \cb3 \strokec12 //    //CONCAT\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    int n1 = 1;\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    int n2 = 2;\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    int n3 = 3;\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    int n4 = 4;\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    List* concat_list1 = List_create();\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    List_add(concat_list1,&n1);\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    List_append(concat_list1, &n2);\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    List* concat_list2 = List_create();\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    List_add(concat_list2,&n3);\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    List_append(concat_list2,&n4);\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    List_concat(concat_list1,concat_list2);\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    if(List_count(concat_list1)==4)\{\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //        if(List_last(concat_list1) == &n4)\{\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //            printf("List_concat WORKED \\n");\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //            ShowLinkedList(concat_list1);\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //        \}\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    \}\cf6 \cb1 \strokec6 \
+\
+\pard\pardeftab720\sl360\partightenfactor0
+\cf6 \cb3    \cf12 \strokec12 //SEARCH\cf6 \cb1 \strokec6 \
+\cb3    \cf12 \strokec12 //When current is pointing to the data that tail is pointin\cf6 \cb1 \strokec6 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf12 \cb3 \strokec12 //    if(List_search(test1,pComparator,&add4) == &add4)\{\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //       printf("List_search Success\\n");\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    \}else\{\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //      printf("List_search Fail\\n");\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //    \}\cf6 \cb1 \strokec6 \
+\
+\cf12 \cb3 \strokec12 //    //When current is beyond the tail \cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //     test1 -> checkBounds = 1;\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //     if(List_search(test1,pComparator,&add1) == &add1)\{\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //       printf("List_search WORKED \\n");\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //     \}else\{\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //       printf("List_search FAILED \\n");\cf6 \cb1 \strokec6 \
+\cf12 \cb3 \strokec12 //     \}\cf6 \cb1 \strokec6 \
+\
+\pard\pardeftab720\sl360\partightenfactor0
+\cf6 \cb3     \cf7 \strokec7 printf\cf6 \strokec6 (\cf5 \strokec5 "ALL THE TESTS ARE PASSED \cf10 \strokec10 \\n\cf5 \strokec5 "\cf6 \strokec6 );\cb1 \
+\cb3 \}\cb1 \
+\
+\pard\pardeftab720\sl360\partightenfactor0
+\cf4 \cb3 \strokec4 int\cf6 \strokec6  \cf7 \strokec7 main\cf6 \strokec6 ()\{\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf6 \cb3     \cf7 \strokec7 List_test\cf6 \strokec6 ();\cb1 \
+\cb3 \}\cb1 \
+}
