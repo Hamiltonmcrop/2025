@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /* 
- *  Building a Min Heap.
+ *  Building a MinHeapify java file.
  */
 public class minHeapify {
     
@@ -19,7 +19,6 @@ public class minHeapify {
 
         if (smallest != i)
         {
-            // Swap
             int temp = arr[smallest];
             arr[smallest] = arr[i];
             arr[i] = temp;
@@ -34,7 +33,7 @@ public class minHeapify {
             minHeapify(arr, i, n);
     }
     
-    // Display Min heapify array.
+    // Display Minheapify array.
     static void display(int arr[])
     {
         System.out.println(Arrays.toString(arr));

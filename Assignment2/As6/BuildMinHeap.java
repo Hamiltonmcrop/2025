@@ -1,14 +1,14 @@
 import java.util.Arrays;
 
 /* 
- * Building a Min Heap.
+ * Building a MinHeap.
  */
 public class BuildMinHeap {
     
     static void MinHeapify(int arr[], int i, int size) {
         int left = 2 * i + 1;
         int right = 2 * i + 2;
-        int smallest = i; // smallest me i ka value dal diye hai.
+        int smallest = i;
         
         if (left < size && arr[left] < arr[smallest])
             smallest = left;
@@ -31,7 +31,7 @@ public class BuildMinHeap {
             MinHeapify(arr, i, n);
     }
     
-    // Display Min heapify array.
+    // Display BuildMinheap array.
     static void display(int arr[]) {
         System.out.println(Arrays.toString(arr));
     }
