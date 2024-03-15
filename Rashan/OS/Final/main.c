@@ -1,3 +1,8 @@
+/**
+ * Operating System Simulation
+ * Date: 15 March 2024
+ * Implements the functions prototypes in the header files
+ */
 #include "list.h"
 #include <stdio.h>
 #include <assert.h>
@@ -5,21 +10,6 @@
 #include <stdlib.h>
 
 void ShowLinkedList(List* pList){
-/*
-  printf("first node -->");
-  pList -> current = pList->head;
-  while (1) {
-    if(pList-> head == NULL){
-        printf("there is no list");
-        return;
-    }else if(pList -> current -> next = NULL){
-        printf("%d\n",*(int*)pList->current->data);
-    }else{
-        printf("%d\n",*(int*)pList->current->data);
-        pList -> current = pList -> current -> next;
-    }
-  }
-*/
 }
 
 bool pComparator(void* pItem, void* comparator){
@@ -30,18 +20,14 @@ bool pComparator(void* pItem, void* comparator){
     }
 }
 
-//Test program
 void List_test()
 {
-    // Create list
     List* test1 = List_create();
     List* test2 = List_create();
 
-    // Empty List
     if(test1 != NULL && test2 != NULL){
         printf("EMPTY LIST IS CREATED \n");
     }
-    // Add && count 
     int add[3] = {9,45,2};
     for(int i =0; i < 3; i ++){
        List_add(test1, &add[i]);
@@ -55,7 +41,6 @@ void List_test()
     }
 
 
-    // INSERT
     int insert1 = 3;
     int insert2 = 45;
     if(List_insert(test1, &insert1) == 0){
@@ -65,7 +50,6 @@ void List_test()
       printf("List_insert not WORKED \n");
     }
 
-    // APPEND
     int append1 = 10;
     int append2 = 45;
     if(List_append(test2, &append1) == 0 && List_append(test2, &append2)==0){
@@ -76,7 +60,6 @@ void List_test()
      
     }
 
-    // PREPEND
     int prepend1 = 3;
     int prepend2 = 45;
     if(List_prepend(test1, &prepend1) == 0){
@@ -86,7 +69,6 @@ void List_test()
       printf("List_prepend not WORKED \n");
     }
 
-    //NEXT ,PREV && FIRST
      if(List_first(test2) == &append1){
          printf("first");
          if(List_next(test2) == &append2){
@@ -96,8 +78,7 @@ void List_test()
              }
          }
      }
-
-    //REMOVE 
+ 
     if(List_remove(test1) == &append2){
         printf("List_remove WORKED \n");
         ShowLinkedList(test1);
@@ -107,7 +88,6 @@ void List_test()
 
 
      
-      //CONCAT
       int n1 = 1;
       int n2 = 2;
       int n3 = 3;
@@ -131,7 +111,7 @@ void List_test()
          printf("List_concat not WORKED \n");
       }
    
-      //Trim 
+ 
      if(List_trim(concat_list1) == &n4){
          printf("List_trim WORKED \n");
          ShowLinkedList(concat_list1);
@@ -140,8 +120,6 @@ void List_test()
      }
 
 
-   //SEARCH
-   //When current is pointing to the data that tail is pointin
    if(List_search(test1,pComparator,&insert1) == &insert1){
       printf("List_search Success\n");
    }else{
@@ -154,6 +132,7 @@ void List_test()
 int main(){
     List_test();
 }
+
 
 
 
