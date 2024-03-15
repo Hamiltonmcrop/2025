@@ -1,14 +1,15 @@
 import java.util.Arrays;
 
 /* 
- * Building a Min Heap.
+ *  Building a Min Heap.
  */
-public class BuildMinHeap {
+public class minHeapify {
     
-    static void MinHeapify(int arr[], int i, int size) {
-        int left = 2 * i + 1;
-        int right = 2 * i + 2;
-        int smallest = i; // smallest me i ka value dal diye hai.
+    static void minHeapify(int arr[], int i, int size)
+    {
+        int left = 2*i + 1;
+        int right = 2*i + 2;
+        int smallest = i;
         
         if (left < size && arr[left] < arr[smallest])
             smallest = left;
@@ -16,23 +17,26 @@ public class BuildMinHeap {
         if (right < size && arr[right] < arr[smallest])
             smallest = right;
 
-        if (smallest != i) {
-            // swap karange
+        if (smallest != i)
+        {
+            // Swap
             int temp = arr[smallest];
             arr[smallest] = arr[i];
             arr[i] = temp;
 
-            MinHeapify(arr, smallest, size);
+            minHeapify(arr, smallest, size);
         }
     }
     
-    static void Build_min_heap(int arr[], int n) {
-        for (int i = (n - 2) / 2; i >= 0; i--)
-            MinHeapify(arr, i, n);
+    static void buildMinHeap(int arr[], int n)
+    {
+        for (int i = (n-2)/2; i >= 0; i--)
+            minHeapify(arr, i, n);
     }
     
     // Display Min heapify array.
-    static void display(int arr[]) {
+    static void display(int arr[])
+    {
         System.out.println(Arrays.toString(arr));
     }
     
@@ -41,7 +45,7 @@ public class BuildMinHeap {
         int arr[] = {10, 15, 50, 4, 20};
 
         int n = arr.length;
-        Build_min_heap(arr, n);
+        buildMinHeap(arr, n);
         
         display(arr);
     }
