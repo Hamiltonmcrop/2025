@@ -1,3 +1,6 @@
+/**
+ * PCB simulator
+ * */
 #include <stdlib.h>
 #include "list.h"
 #include <stdio.h>
@@ -216,7 +219,6 @@ static void processC(){
         int total_ready = List_count(ready_queue_high) + List_count(ready_queue_norm) + List_count(ready_queue_low);
         printf("total ready %d\n",total_ready);
         if(total_ready == 1 && running == process_init){schedule_cpu();}
-        //remember to do the same for unblocking
     }
     return;
 }
@@ -737,12 +739,12 @@ int main(int argc, char **args)
         scanf("%c", &command);
         getchar();
         printf("your command %c\n",command);
+	if(command == 'K'){processK();}
         if(command == 'C'){processC();}
         if(command == 'X'){processX();}
         if(command == 'T'){processT();}
         if(command == 'Q'){processQ();}
         if(command == 'E'){processE();}
-        if(command == 'K'){processK();}
         if(command == 'S'){processS();}
         if(command == 'R'){processR();}
         if(command == 'Y'){processY();}
