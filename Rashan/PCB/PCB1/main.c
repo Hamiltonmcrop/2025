@@ -1,3 +1,6 @@
+/*
+ * PCB Simulation and Process
+ * */
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
