@@ -1,3 +1,16 @@
+# Name: TextBlob Sentiment Analysis
+# Date: March 2024
+# Program Description: Perform sentiment analysis on tweets using TextBlob.
+
+# Estimated Time: 10 hours
+
+# Time Log:
+# - Day 1: 2 hours - Set up project, write code for loading and cleaning tweets
+# - Day 2: 3 hours - Implemented sentiment analysis and printing top tweets
+# - Day 3: 2 hours - Added menu options and additional noun extraction
+# - Day 4: 1 hour - Final testing and documentation
+
+
 from textblob import TextBlob
 import csv
 import re
