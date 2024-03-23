@@ -1,0 +1,709 @@
+
+
+TOP NEGATIVE TWEETS
+id=2698404191, polarity=-1.00, clean=grrr #newtwitter stop suggesting me to follow @justinbieber ,i'm never going to!!!!!!!!!!
+id=2697847427, polarity=-1.00, clean=i hate the #newtwitter!
+id=2697703319, polarity=-1.00, clean=and what is this #newtwitter bullshit?! i hate it!
+id=2697201327, polarity=-1.00, clean=oh. #newtwitter is still here. i thought it was just a horrible dream.
+id=2697066196, polarity=-1.00, clean=copy that - its way buggy! -- rt @chqwn #newtwitter has the worst messages system. oh and it's laggy. #whineykids
+id=2697044605, polarity=-1.00, clean=#newtwitter has the worst messages system. oh and it's laggy. #whineykids
+id=2707825483, polarity=-1.00, clean=i hate #newtwitter!! rt if you too
+id=2707753987, polarity=-1.00, clean=why doesn't #newtwitter show the convo? its so annoying! i can't see what people replied to!
+id=2707537275, polarity=-1.00, clean=i try and try and try - bloody nothing! #newtwitter
+id=2707474348, polarity=-1.00, clean=@marcsilcockarmy yeah don't get it, i hate the #newtwitter!
+id=2707031705, polarity=-1.00, clean=get on the #newtwitter and smoke a bong i'm telling you it's sick!!!!
+id=2707015593, polarity=-1.00, clean=fuck #newtwitter!!! i can not figure out how to rt ppls tweets!!!
+id=2718940948, polarity=-1.00, clean=@latinatwix28 i hate #newtwitter. with a passion!
+id=2718572358, polarity=-1.00, clean=you kept complaining cuz you didn't have the #newtwitter & now you have it & you hate it & you're still complaining. stfu!
+id=2717822373, polarity=-1.00, clean=i really hate the #newtwitter !
+id=2717777272, polarity=-1.00, clean=stupid #newtwitter ! ifreaking hate you !
+id=2717593382, polarity=-1.00, clean=i so hate this #newtwitter! what should i change my username to????
+id=2717402371, polarity=-1.00, clean=i hate #newtwitter!! i'm not gonna use it! never!!
+id=2717070762, polarity=-1.00, clean=eugh...#newtwitter how i hate you! night night
+id=2717012002, polarity=-1.00, clean=no y is my #oldtwitter actn up?! i had to switch to #newtwitter just to tweet! this is terrible smh
+id=2716538560, polarity=-1.00, clean=guess i gotta get used to this #newtwitter . i hate it tho !
+id=2716493966, polarity=-1.00, clean=i officially hate the #newtwitter!!!!!
+id=2717946613, polarity=-0.98, clean=the #newtwitter is mad hott! i'm lovin it!
+id=2717923761, polarity=-0.98, clean=i guess ill switch to #newtwitter again i didnt care for it!!!
+id=2697115710, polarity=-0.94, clean=eu gostei do #newtwitter =/! #oremos
+id=2717014729, polarity=-0.94, clean=@matt_is i'm no longer seeing it in my profile :( owell, must be #newtwitter!
+id=2708035910, polarity=-0.90, clean=@emizzfreedizz i tried the #newtwitter for about 10 minutes. hated it with a passion.
+id=2698414210, polarity=-0.80, clean=one thing i hate about #newtwitter: instead of giving you two "who to follow" suggestions, you get four. i prefer zero.
+id=2698358654, polarity=-0.80, clean=so #newtwitter doesn't give any type of notification when you have a message! annoying -_-
+id=2698300915, polarity=-0.80, clean=just tried out the #newtwitter ...i hate it
+id=2698288576, polarity=-0.80, clean=this #newtwitter is annoying me now... #ugh
+id=2698126330, polarity=-0.80, clean=i hate the fuqn #newtwitter
+id=2698010897, polarity=-0.80, clean=i hate #newtwitter, night all x
+id=2697766963, polarity=-0.80, clean=i hate the #newtwitter
+id=2697687878, polarity=-0.80, clean=tried #newtwitter again for like a hour. i really do hate it. #oldtwitter is where its at.
+id=2697641878, polarity=-0.80, clean=#newtwitter won't let me send any tweets at all, how annoying
+id=2697593938, polarity=-0.80, clean=i guess i am retarded. i don't often get on the #twitter website. got the ' #newtwitter ' going. have no idea how to retweet or delete. #wt
+id=2697575398, polarity=-0.80, clean=i hate #newtwitter
+id=2697568930, polarity=-0.80, clean=,i hate the #newtwitter
+id=2697537878, polarity=-0.80, clean=i hate the #newtwitter
+id=2697356024, polarity=-0.80, clean=i hate #newtwitter... well dislike it.
+id=2697174226, polarity=-0.80, clean=@nickhalstead howdy nick. any chance i could get in the datasift alpha. looking for hate #newtwitter by users with a given follower count
+id=2697170243, polarity=-0.80, clean=the #newtwitter is crap
+id=2697048496, polarity=-0.80, clean=i #hate #newtwitter
+id=2696962471, polarity=-0.80, clean=seriously i fucking hate the #newtwitter.
+id=2708557562, polarity=-0.80, clean=i have to resend my tweets a bagillion times on the #newtwitter. annoying.
+id=2708294429, polarity=-0.80, clean=its annoying rt @flyguy_reap: this #newtwitter is iight i guess
+id=2707902876, polarity=-0.80, clean=why isn't my twitter working? this is why i hate the #newtwitter
+id=2707659197, polarity=-0.80, clean=#newtwitter is kinda annoying
+id=2707434974, polarity=-0.80, clean=and i really, really hate #newtwitter honney
+id=2707372452, polarity=-0.80, clean=i know i am annoying you all at the moment but do any of you have the #newtwitter
+id=2707012969, polarity=-0.80, clean=dear #newtwitter. i fucking hate you.
+id=2706765101, polarity=-0.80, clean=i hate how retweet-ing doesn't work for mee -___- hates the #newtwitter
+id=2718787109, polarity=-0.80, clean=i really hate #newtwitter
+id=2718071728, polarity=-0.80, clean=@alisonlodge i'll join you! i hate #newtwitter
+id=2718005845, polarity=-0.80, clean=i hate #newtwitter. it can die.
+id=2717339652, polarity=-0.80, clean=rocking #retrotwitter again. i really hate how #newtwitter handles conversations.
+id=2717042732, polarity=-0.80, clean=i hate #newtwitter its ruined my life.
+id=2717023779, polarity=-0.80, clean=i hate the way you can't see who retweeted you that used to make my day....fuck sake #newtwitter
+id=2716898456, polarity=-0.80, clean=if that #newtwitter isn't optional, i will tweet strictly from my phone. i hate it.
+id=2716481574, polarity=-0.80, clean=dear #newtwitter, stop telling me i have to give twitter api a password. because i don't have to, and telling me i have to is annoying.
+id=2697009807, polarity=-0.80, clean=#newtwitter is stupid...
+id=2707461631, polarity=-0.80, clean=this #newtwitter is still being stupid for me... they need to fix this problem soon..
+id=2718817958, polarity=-0.80, clean=don't like the #newtwitter! its stupid
+id=2718594524, polarity=-0.80, clean=@thebookologist that's always happening to me! stupid #newtwitter
+id=2717638487, polarity=-0.80, clean=the way dms are on #newtwitter is stupid. >_>
+id=2697983477, polarity=-0.78, clean=i don't like the #newtwitter, this version is weird!!
+id=2707375793, polarity=-0.78, clean=fuck you #newtwitter! i dont get you!!
+id=2707466345, polarity=-0.78, clean=hate the #newtwitter for some reason i can not see home :(
+id=2707373474, polarity=-0.78, clean=hate that #newtwitter doesn't have the "in reply to" function :(
+id=2698085323, polarity=-0.76, clean=@twitter @support i hate how slow the #newtwitter is! it makes my computer act like it's from the stone age! : ( please speed it up!!!!!
+id=2686151708, polarity=-0.75, clean=saiba como customizar o background do #newtwitter:  (via @interney - em inglês) #dicastwitter
+id=2698531510, polarity=-0.75, clean=how to customize your twitter background for #newtwitter:  (cc:@cblaser)
+id=2698074177, polarity=-0.75, clean=aaaah! me desespera que no mi twitter no jale con #newtwitter :(
+id=2697971257, polarity=-0.75, clean=me gustaba mas el #newtwitter :(
+id=2697679209, polarity=-0.75, clean=no, i don't wanna use the #newtwitter :c
+id=2697436653, polarity=-0.75, clean=@creativedynamix oh no :( i was hoping #newtwitter might do something about that, but nope :(
+id=2697302920, polarity=-0.75, clean=eugh i don't like the #newtwitter at all! :(
+id=2697161490, polarity=-0.75, clean=não curti o #newtwitter :(
+id=2697019227, polarity=-0.75, clean=esse #newtwitter cagou pro meu background novo =/
+id=2696974892, polarity=-0.75, clean=mi background no se ve muy bien con el #newtwitter :(
+id=2708316638, polarity=-0.75, clean=yes!! rt @soyoufancynow: one thing about the #newtwitter , we still got that darn 140 character limit :(
+id=2708249813, polarity=-0.75, clean=one thing about the #newtwitter , we still got that darn 140 character limit :(
+id=2707893267, polarity=-0.75, clean=arghhhh...esse #newtwitter é mtooo chato! :(
+id=2707637969, polarity=-0.75, clean=#newtwitter .. uncool :(
+id=2707429994, polarity=-0.75, clean=jealous ex girlfriends, thristy niggas, stalkers and crazy baby momma's formed a union and created #newtwitter hide yeah kids, hide yeah wife!
+id=2707118359, polarity=-0.75, clean=@blackfeather yeah i couldn't get that working either. =/ #newtwitter #android #seesmic
+id=2707080331, polarity=-0.75, clean=i dislike #newtwitter >:(
+id=2706863864, polarity=-0.75, clean=i can't figure out how to log out of the #newtwitter somebody help me! please?! =/
+id=2718607468, polarity=-0.75, clean=i dnt like the #newtwitter :-(
+id=2718484905, polarity=-0.75, clean=fucking wit this #newtwitter !
+id=2718319741, polarity=-0.75, clean=i do like the #newtwitter but how do you reply to tweets? =/
+id=2718091273, polarity=-0.75, clean=#newtwitter doesn't work on opera :(
+id=2717627026, polarity=-0.75, clean=i wna tweet from my laptop but idk how to reply on #newtwitter :(
+id=2717468448, polarity=-0.75, clean=@deonwentworth i don't see any close button! #newtwitter :(
+id=2717352723, polarity=-0.75, clean=#newtwitter is making me claustrophobic.
+id=2717066015, polarity=-0.75, clean=no i dont like #newtwitter :(
+id=2717021286, polarity=-0.75, clean=i am stubborn and i refuse to get the #newtwitter >:(
+id=2716922787, polarity=-0.75, clean=i wish having the #newtwitter was a choice, cause a lot of people don't like it =/
+id=2716662916, polarity=-0.75, clean=@hisashiicast se eu soubesse dar #rt no #newtwitter eu dava =/
+
+
+TOP POSITIVE TWEETS
+id=2678017795, polarity=0.80, clean=oh yea i am liking.....wait.......i am loving the new twitter!!!!! go #newtwitter!!!!!
+id=2676047632, polarity=0.80, clean=@nonprofitkeng have you resized your background image for #newtwitter? here's a great guide via @mashable: 
+id=2675144199, polarity=0.80, clean=time is a dressmaker specializing in alterations.  ~ faith baldwin welcome, #newtwitter.  
+id=2698503310, polarity=0.80, clean=i'm loving this #newtwitter <3
+id=2698408703, polarity=0.80, clean=@dirtybirdphnx you can keep yeah ie9. lol haven't used #newtwitter yet #chrome all the way
+id=2698288753, polarity=0.80, clean=i think i likee #newtwitter , gonnaa take some getting used to though. lol
+id=2698243663, polarity=0.80, clean=havent been on #newtwitter since yesterday lol
+id=2698052492, polarity=0.80, clean=#newtwitter is weirdd! lol
+id=2697853334, polarity=0.80, clean=#thingsyoushouldntsay are your #myweakness on #newtwitter lol
+id=2697692437, polarity=0.80, clean=@triciatay lol do you have the #newtwitter cause on there its easier
+id=2697597809, polarity=0.80, clean=lol wut is this. #newtwitter
+id=2697486378, polarity=0.80, clean=no... i'm on my phone lol rt @heavenwild: you usin the #newtwitter??? @jayrize_atc  @fly_societyceo
+id=2697157241, polarity=0.80, clean=welcome to #newtwitter
+id=2696982673, polarity=0.80, clean=#newtwitter on deck. . lol
+id=2708080719, polarity=0.80, clean=lol, you can't f5 to refresh on #newtwitter. it retweets the tweet you clicked on.
+id=2707844132, polarity=0.80, clean=@shelbyyjade i didn't even kno there was a #fagballs sucking #newtwitter lol
+id=2707843689, polarity=0.80, clean=its was  great the #newtwitter
+id=2707754310, polarity=0.80, clean=i am qonna force myself to qet used to this #newtwitter lol.
+id=2707731569, polarity=0.80, clean=trying out #newtwitter - we'll see, i just got use to the #oldtwitter now i gotta learn this bitch all over again! lol
+id=2707571968, polarity=0.80, clean=@nthjones --- you just called #newtwitter "honey", thank you. win.
+id=2707511446, polarity=0.80, clean=@aarbaer i feel like the #newtwitter is just catching up with mobile twitter apps...i wasn't that impressed with it when i got it yesterday
+id=2707374219, polarity=0.80, clean=#newtwitter isn't so great
+id=2706816739, polarity=0.80, clean=@kenjarman lol i still don't have #newtwitter
+id=2718958967, polarity=0.80, clean=lol ifinally have the #newtwitter ...(:
+id=2718674046, polarity=0.80, clean=#newtwitter doin a madness to my eyes lol
+id=2718450427, polarity=0.80, clean=@iharryshum lol hahaha...are you using the #newtwitter too?
+id=2718223109, polarity=0.80, clean=@problogger #newtwitter seemed to cluttered. if i wanted a "tweetdeck" experiance, i would use #tweetdeck lol
+id=2717775207, polarity=0.80, clean=i am scared to try #newtwitter lol...
+id=2717663985, polarity=0.80, clean=welcome to #newtwitter paoskpaoskpoakspoakspaoskaposa
+id=2717496258, polarity=0.80, clean=@lewisthegreat #newtwitter is actually great.
+id=2717252252, polarity=0.80, clean=loving the #newtwitter <3
+id=2717172664, polarity=0.80, clean=@1bonsu lol.... that is #newtwitter for you.......
+id=2716993143, polarity=0.80, clean=i am on #newtwitter. everyone be proud.
+id=2716766561, polarity=0.80, clean=@iriitaa try the firefox beta! it's hardware accelerated and it runs great with #newtwitter  #fxhelp
+id=2716581799, polarity=0.80, clean=ppl keep sayin that! its #newtwitter lol rt @closetofamous what's up w/ twitter. why my tweets ain't showing on my profile???
+id=2697873445, polarity=0.81, clean=#newtwitter is very interesting to use! can not wait for it to be out all the way :d
+id=2706740152, polarity=0.81, clean=getting used to the #newtwitter... very interesting!
+id=2707128260, polarity=0.83, clean=#newtwitter is awesome love the vids and pics on the user interface. great for everyone!
+id=2698194250, polarity=0.85, clean=@benedict_nz @itsgrego no no no! #newtwitter is awesome! in fact it's so good i'm considering ditch my desktop app.
+id=2696961849, polarity=0.85, clean=with #newtwitter, you can't see my beautiful background with @kimkardashian
+id=2602382610, polarity=0.88, clean=i loved writing about #newtwitter with @mikeschaffer & @nakeva ( but can i please get upgraded @twitter? thx!
+id=2698446667, polarity=0.88, clean=it's good! #newtwitter
+id=2706806467, polarity=0.88, clean=good morning tweeps! (i am trying out the #newtwitter)
+id=2708103892, polarity=0.92, clean=@coquettishcook thinking #newtwitter isn't as pleasantly designed, either. forcing me into finding twitter app that's clean/bug-free.grrrr!
+id=2706760481, polarity=0.94, clean=twitter is getting kind of olld?! i hhate #newtwitter!
+id=2698367547, polarity=0.98, clean=i love #newtwitter!!!
+id=2696950483, polarity=0.98, clean=i love #newtwitter!!!
+id=2708346077, polarity=0.98, clean=#newtwitter looks so much better!!!
+id=2613476002, polarity=1.00, clean=#newtwitter using the fibonacci series! awesome!!!! 
+id=2619089402, polarity=1.00, clean=@commentluv lol yep! i've got two completed already >>  #newtwitter
+id=2627344633, polarity=1.00, clean=designer realigns #newtwitter.  excellent work!  
+id=2646606970, polarity=1.00, clean=excellent guide to some #newtwitter features 
+id=2658447266, polarity=1.00, clean=new twitter!!!!!!!!!! #newtwitter
+id=2658400769, polarity=1.00, clean=@dingdongbigben i can has new twitter #newtwitter!!!!!!!!!
+id=2659753354, polarity=1.00, clean=new twitter is here!!!!!!!!!!!!! yesssssssssssssss #newtwitter!
+id=2678316818, polarity=1.00, clean=ahhhhhhh!!!!!!!!!!!!!!!!!!!!!!!! i got new twitter!!!!!!! ahhh! i have to ry it! i am so excited! #newtwitter!!!!!!!!!!!!!!! no joke
+id=2674191867, polarity=1.00, clean=new twitter!!!!!!!!!!!!!! yeaaaa!!! #newtwitter
+id=2698525685, polarity=1.00, clean=so good! #newtwitter has already what i had been asking longtime: the rt button on lists! yeahhhh! #applause
+id=2698413436, polarity=1.00, clean=and this #newtwitter is awesome!!! :d
+id=2698385025, polarity=1.00, clean=@lizziejiss lol! xd #newtwitter is the law!
+id=2698094487, polarity=1.00, clean=the #newtwitter has some very great features! it's growing on me!
+id=2697992293, polarity=1.00, clean=you can now undo retweeting?  that's awesome.  does anyone know if it works well?  #newtwitter
+id=2697973653, polarity=1.00, clean=@bink63 lmao! i am  in the #newtwitter! you...you...bink63 you!
+id=2697742700, polarity=1.00, clean=#newtwitter is great !!
+id=2697710132, polarity=1.00, clean=@qu33ncoco @mscrys23 its awesome! and when you go online via mobile, its their as well! #awesome #newtwitter
+id=2697691811, polarity=1.00, clean=@connorfrommars #newtwitter is beautiful, you slaaaaaag!
+id=2697553458, polarity=1.00, clean=i <3 the #newtwitter! see you tomorrow. i'm on gaia and i have work to do.
+id=2697540083, polarity=1.00, clean=#newtwitter <3'
+id=2697455473, polarity=1.00, clean=#newtwitter! is awesome!!
+id=2697272123, polarity=1.00, clean=i love the #newtwitter !!!!!!!!!!!!!!!!!
+id=2697197144, polarity=1.00, clean=#newtwitter!! awesome!!!!
+id=2697173033, polarity=1.00, clean=@vickyvette kinda like #newtwitter even with its faults the 1 thing that makes it best is not having 2 click on links to see pics (no virus
+id=2697111936, polarity=1.00, clean=@carolynp1cmoney hey girl!!! welcome to the #newtwitter! haven't talked to you in forever!
+id=2697108572, polarity=1.00, clean=#newtwitter is awesome
+id=2697092328, polarity=1.00, clean=#newtwitter is awesome.
+id=2697015599, polarity=1.00, clean=i like the #newtwitter it is awesome!!! woot woot
+id=2696946175, polarity=1.00, clean=hey just got #newtwitter its awesome
+id=2708288355, polarity=1.00, clean=w....whoa... #newtwitter dm section is... awesome.
+id=2707617789, polarity=1.00, clean=#newtwitter! <3
+id=2707420095, polarity=1.00, clean=@nickifanssuk  how come it said 865 when i looked? lol... maybe it's just this #newtwitter! idk...
+id=2707407910, polarity=1.00, clean=''welcome to #newtwitter!'' *o*
+id=2707121009, polarity=1.00, clean=absolutely loving this #newtwitter !!!
+id=2707013346, polarity=1.00, clean=heyyy i got the #newtwitter lol about time!
+id=2707009784, polarity=1.00, clean=welcome to #newtwitter!
+id=2707002947, polarity=1.00, clean=well trying the #newtwitter can't say i'm impressed.
+id=2706874044, polarity=1.00, clean=welcome to #newtwitter!
+id=2706862375, polarity=1.00, clean=oh great, i can't see the location of @geonet's tweets in #newtwitter so have no idea where the earthquakes are!
+id=2706799819, polarity=1.00, clean=#newtwitter is awesome
+id=2706719954, polarity=1.00, clean=get the 5 best business ideas for 2011...free !!!  #2k11 #newtwitter 
+id=2718686840, polarity=1.00, clean=@itzsofluffy i <3 the #newtwitter
+id=2718679387, polarity=1.00, clean=#newtwitter is awesome.
+id=2718169429, polarity=1.00, clean=#newtwitter is awesome!
+id=2717985290, polarity=1.00, clean=#newtwitter follow @burnhamgasm <3
+id=2717280641, polarity=1.00, clean=impressed with the #newtwitter!
+id=2717156586, polarity=1.00, clean=loving #newtwitter !!!!!!!!!!!!!!!!
+id=2717072554, polarity=1.00, clean=i love the #newtwitter!!!!
+id=2716967713, polarity=1.00, clean=#newtwitter is awesome :d
+id=2716931344, polarity=1.00, clean=@whitneycummings i love reading your h@te replies by your followers on #newtwitter!  these people need a life!! lmfao!!
+id=2716910620, polarity=1.00, clean=@gracetopia i'm with you and @sociotom on this one. i like #newtwitter. and #twitter remains the best way to get #gracecon2011 updates!
+id=2716726224, polarity=1.00, clean=i <3 #newtwitter
+
+
+TOP NEUTRAL TWEETS
+id=2708619655, polarity=-0.10, clean=@sophisti_katied yeah, at first i thought it was #newtwitter but it's really both. :(
+id=2716958349, polarity=-0.10, clean=@milblogging mine did that too; not sure if it's something with #newtwitter or just anoher general fail/loss of data
+id=2697842797, polarity=-0.10, clean=lists on #newtwitter is painful, please... better interface... on a list maybe, like trends.
+id=2708640713, polarity=-0.10, clean=man i hate the #newtwitter but #thankgod i got rid of it! lol
+id=2717043580, polarity=-0.10, clean=@askearly lol cause we hate #newtwitter! @twitter
+id=2697293690, polarity=-0.10, clean=too bad most of my background pic is covered up now. #newtwitter
+id=2697060320, polarity=-0.10, clean=the #newtwitter isn't that bad.. but i feel like i'm pressing a lot more buttons
+id=2628765549, polarity=-0.10, clean=dear new twitter why is it that you made it so difficult 2 find other user's lists? #newtwitter the old twitter would never do that resigne
+id=2621656108, polarity=-0.09, clean=really really wants the new twitter!!!:( who has it? #newtwitter
+id=2716951686, polarity=-0.09, clean=the amount of finess on my #twitter i mean jheeze i feel like the #newtwitter is a blessings wow!
+id=2671476332, polarity=-0.09, clean=no like new twitter! cut off my bg pic (omgno!), 5 who2follow now (fuck off w2f), shows my lists and faves (i don't care). #newtwitter #fai
+id=2638691837, polarity=-0.09, clean=i thought all new accounts got #newtwitter. guess not. i'll delete that new one....  *sad*  loljk!! i already have new twitter.
+id=2636965790, polarity=-0.09, clean=do me a favor twitter,dont give me the new twitter,it sucks worse then the old does, if that's possible! #newtwitter
+id=2718360689, polarity=-0.09, clean="@ayocee: okay so maybe i'm a little late... but this  #newtwitter is weird as fuck."split screen is the shit tho right !!
+id=2673003372, polarity=-0.09, clean=new twitter sucks its slow & has a lot of errors you would figure they would have fixed these things be4 launching it #newtwitter
+id=2697332532, polarity=-0.09, clean=got new #newtwitter,  i like it, minus the the way scroll works. scrolling the browser window doesn't scroll entire page? what the fuck?
+id=2607794795, polarity=-0.09, clean=what new twitter :/ rt @juicyjemma i kinda like the #newtwitter!
+id=2659268103, polarity=-0.09, clean=:: gasps :: why havent they asked me about tha #newtwitter ?? lmfao i want tha new shit 2 #twitter! #dammit! *sipsmycoffee* w/ tha #meanmug
+id=2647548596, polarity=-0.09, clean=not sure i like the new twitter, it's different, and different means change, and all change is bad. right? #newtwitter
+id=2636885281, polarity=-0.09, clean=new twitter is pissing me off. it's showing that my following and followers count is 0 which i deem false. #newtwitter
+id=2618703131, polarity=-0.09, clean=@asmaamethqal new twitter: worse, the cols are almost equal, the uncanny valley of proportion. #newtwitter
+id=2617493950, polarity=-0.09, clean=an epic fail for new twitter #newtwitter
+id=2629186734, polarity=-0.09, clean=i had the new twitter for a while but then it left me because i didn't appreciate it. fuck you #newtwitter
+id=2657073229, polarity=-0.09, clean=there's a new twitter?? rt @sawi5: how come i am like the only person without the #newtwitter... #what the fuck??
+id=2658384890, polarity=-0.09, clean=when i leave the preview on #newtwitter, i think the old twitter looks weird. i guess i'm used to the new twitter now.
+id=2658806669, polarity=-0.09, clean=i've finally been asked to try the new twitter. i guess i know what they must think of me. #unimportant #newtwitter
+id=2680599430, polarity=-0.09, clean=after carefully considering all the ramifications & permutations, i have concluded that the new twitter sucks. #newtwitter
+id=2678259255, polarity=-0.09, clean=woo -- i actually have new twitter now, rather than getting confused with @badger_lord #newtwitter
+id=2697967316, polarity=-0.09, clean=@OK congratulations! ps. i'm sending folks who mention hate #newtwitter to a customized web ui post  #cantpleaseeveryone
+id=2697167790, polarity=-0.09, clean=i switched to the #newtwitter and it sucks. i want the old one baaack!
+id=2670651362, polarity=-0.09, clean=no no! new twitter, die! (please let it be a dream, let it be a dream..) #newtwitter
+id=2717022116, polarity=-0.08, clean=#cosign rt @_gbaby_: why people hate the #newtwitter so much? i think its cool
+id=2717016306, polarity=-0.08, clean=why people hate the #newtwitter so much? i think its cool
+id=2697707517, polarity=-0.08, clean=on da e i #hate dis #newtwitter shit! if you from da rock you know what da e is lol...
+id=2696972204, polarity=-0.08, clean=did anyone else notice that the stumbleupon bar slightly breaks the #newtwitter interface? (when you open a tweet on the side)
+id=2718528679, polarity=-0.08, clean=not sure about this #newtwitter. too crowded, i prefer the simplistic design that made it so famous
+id=2717700783, polarity=-0.08, clean=finally!  the #newtwitter arrives.  i can only assume they were working backwards through the alphabet :-/
+id=2716634584, polarity=-0.08, clean=looks like our retweets (with that silly recycling symbol) are finally showing up in our stonebridge.com feed. thanks, #newtwitter !
+id=2716520018, polarity=-0.08, clean=now with #newtwitter i've actually tweeted less.
+id=2716469504, polarity=-0.08, clean=@maggiekeenan too funny - same prob! #newtwitter #twitter #fail
+id=2658378549, polarity=-0.08, clean=@louisemccall stick to tweetdeck, new twitter is too slow and unreliable. i don't like it #newtwitter
+id=2673558084, polarity=-0.08, clean=am i being thick? where the heck is the reply button in this new twitter??? #newtwitter
+id=2671671688, polarity=-0.08, clean=i like the new twitter. typingis still slow though. #newtwitter
+id=2718343920, polarity=-0.08, clean=me too! @misssld2u: using the #newtwitter is like work when you get a new system or an upgrade... i feel slow as fuck.
+id=2617463539, polarity=-0.08, clean=new twitter is a bit confusing. #newtwitter
+id=2621329140, polarity=-0.08, clean=people complaining about new twitter huh?? well my complaint about #newtwitter is i don't fuckin have it yet :@
+id=2620020798, polarity=-0.08, clean=the "new twitter" is confusing me.... guess i just need to get used to it. #newtwitter
+id=2631989935, polarity=-0.08, clean=what new twitter? :rt @darenzz: #newtwitter sucks
+id=2629053723, polarity=-0.08, clean=so my new twitter is tweetdeck that #newtwitter sucks its slower than my schools mascot
+id=2656274662, polarity=-0.08, clean=@fierce_hurdler: the new twitter on the web sucks #epicfail how did you get the #newtwitter
+id=2685134346, polarity=-0.08, clean=this #newtwitter is the shizznit! i know i'm a bit late but my pc was on her period so couldn't access new twitter...:-d
+id=2682387510, polarity=-0.08, clean=#newtwitter dang: now my @ mentions are gone, at least those after april 4th. new twitter seems a bit glitchy to you?
+id=2679064081, polarity=-0.08, clean=dms aren't called dms on new twitter? that kinda sucks. #newtwitter #kindasucks
+id=2677932796, polarity=-0.08, clean=is it coincidence that when i get #newtwitter my internet sucks. or does it suck because i have new twitter?
+id=2677727803, polarity=-0.08, clean=the new twitter is sooo confusing. #newtwitter
+id=2677126698, polarity=-0.08, clean=the new twitter sucks.. #newtwitter
+id=2670983291, polarity=-0.08, clean=was afraid to try new twitter till i heard there was a button that lets you go back. all new things should have that button. #newtwitter
+id=2698513887, polarity=-0.08, clean=wowzers! #newtwitter is still not loading my @mentions, retweets or lists. this new design sucks.
+id=2707635653, polarity=-0.08, clean=there's nothing new about over capacity messages, #newtwitter.  it still sucks.
+id=2706958065, polarity=-0.08, clean=no i would not like to try the new version of  twitter, already tried it... #newtwitter sucks.....
+id=2706755978, polarity=-0.08, clean=twitter: the new interface sucks. i don't wanna see it, try it or change it. #newtwitter
+id=2718008852, polarity=-0.08, clean=@harry_mcdonald ew that sucks. are we going to get the new ie? #newtwitter does not like my prehistoric ie.
+id=2674832983, polarity=-0.08, clean=#newtwitter #fail: no multiple reply. here's a list of other top 10 fails of new twitter: 
+id=2697877283, polarity=-0.08, clean=i actually like the new twitter, strange, usually hate it when social networking sites change for no reason #newtwitter thanks twitter =d =
+id=2678326190, polarity=-0.08, clean=just got #newtwitter and it's awful.  old twitter was clean.  new twitter looks bloated even though information content is about the same.
+id=2630415070, polarity=-0.08, clean=in the  new twitter ui, why doesn't the rhs scroll down as i scroll down the tweets?  i hate coming back to the top to manage #newtwitter
+id=2706734942, polarity=-0.08, clean=#newtwitter is not showing me all my lists in the list drop down next to the follow button #bug
+id=2648522509, polarity=-0.08, clean=you know what #newtwitter i don't like you ... casue you know why ... you make twitter hard to find out . ~.~ maybe i'll try the new twitte
+id=2658361749, polarity=-0.08, clean=new twitter is less annoying than old twitter. sweet. #newtwitter
+id=2682210937, polarity=-0.08, clean=gahh. new twitter is the twitter for ipad. this is lame. i demand a new #newtwitter
+id=2698123903, polarity=-0.08, clean=i don't like the #newtwitter. it can't even keep up with my typing... what the fuck?? this is exactly why i use twidroyd on my phone.
+id=2697342578, polarity=-0.08, clean=please tell me if you find someone who isn't!! ; ) rt @iamluisguzman is anyone else confused with this #newtwitter?
+id=2708562579, polarity=-0.08, clean=@call_me_salome click on it. play around. click back. repeat until confused. punch self in stomach. go back to old twitter. #newtwitter
+id=2707614772, polarity=-0.08, clean=dear #twitter, what the fuck? why didn't you just make it like this in the 1st place? #newtwitter = l o v e ; )
+id=2707231504, polarity=-0.07, clean=@simon_w the map shows up on @geonet tweets for me on #newtwitter, its just *really* small and too far zoomed in...
+id=2717802866, polarity=-0.07, clean=...sooooo whats the difference between #newtwitter and old twitter apart from #newtwitter not fitting on the screen of my netbook?
+id=2697294263, polarity=-0.07, clean=i dont like this #newtwitter because makes a stalker's job much easier and that is not good...
+id=2707457342, polarity=-0.07, clean=hey @twitter: adding bells and whistles on top of stupid interface design is not an improvement. so many things wrong with this #newtwitte
+id=2707256079, polarity=-0.07, clean=really liking the #newtwitter... but i feel bad for not using the #oldtwitter. i'm really big on #loyalty hahahaha
+id=2708039858, polarity=-0.07, clean=just got to switch --> from the new version of #newtwitter back down to the old edition of @twitter! very cool..missed the vintage one:()
+id=2675391036, polarity=-0.07, clean=new twitter will not send my tweets, but old twitter will..... #newtwitter looks pretty but makes me mad!
+id=2697569100, polarity=-0.07, clean=@mneylon you mean older ones not there or it's hit and miss as to which ones show up?  #newtwitter
+id=2617482931, polarity=-0.07, clean=dis new twitter is pretty awkward #newtwitter
+id=2687321123, polarity=-0.07, clean=why does the new twitter web page not allow you to edit prior to re-tweeting? i admit i'm not a good twitterer, but still.... #newtwitter
+id=2680767526, polarity=-0.07, clean=tried tweetdeck yet? @unbravegirl rt @johnnyvagabond: not really digging the new twitter :/ #newtwitter
+id=2680356891, polarity=-0.07, clean=not really digging the new twitter :/ #newtwitter
+id=2716603977, polarity=-0.07, clean=it seems as though now we have to make a new background image so soon. not cool #newtwitter, not cool.
+id=2676456018, polarity=-0.07, clean=guess who just got new twitter! #newtwitter     ...wait, what do you mean you've already had it for 4 weeks?
+id=2632911263, polarity=-0.07, clean=still no new twitter for me... wonder if it pushes me up the queue if i tweet about it #newtwitter
+id=2642573194, polarity=-0.07, clean=day 20: no new twitter. #newtwitter
+id=2652544966, polarity=-0.07, clean=been tweeting from phone because computer broke. now i'm on the computer i realized no new twitter. guess i have to ask for it #newtwitter
+id=2647119592, polarity=-0.07, clean=ten crucial features missing from #newtwitter  (@hilzfuld)
+id=2708258010, polarity=-0.07, clean=what the fuck @twitter -- i am trying to tell a story ! i have #newtwitter now , yu better miss me w| that over capacity shit
+id=2706766057, polarity=-0.07, clean=finally got the #newtwitter smh niggas was madd late with my update but i am feeling it sooo far and i am bout to go in on #itemsindorasbackpac
+id=2697543536, polarity=-0.07, clean=i like #newtwitter but for people with bad eyes like me, the prior font/style was better to read, guys @twitter
+id=2602529998, polarity=-0.07, clean=same here- urs fixed yet? rt @tamarafarley hrm, my #lists function doesn't work on the new twitter. what gives? #newtwitter #fail
+id=2636695032, polarity=-0.07, clean=sorry is things messed up a bit over the weekend, i changed to the new twitter and got lost.  back with the old one now  #newtwitter
+id=2648512927, polarity=-0.07, clean=couldn't tell you. i don't have #newtwitter yet. =( rt @lorriw: not sure i am loving this new twitter look - are dms in time order?
+id=2620103151, polarity=-0.07, clean=when the new twitter fails, will they introduce twitter classic? #newtwitter
+id=2672164117, polarity=-0.06, clean=voila guys i am back sorry for havent been so long here anyway i get my new twitter on my @benwardbeshine that is so epic lovee #newtwitter (:
+id=2676856000, polarity=-0.06, clean=#newtwitter is fucked up alright,  i switched back rt @psuwrestler74: i like the new twitter :p @hvacca14 rt this #newtwitter is fucking up
+id=2698162141, polarity=-0.06, clean=#newtwitter booshe  mixtape january 3rd hit internet all ova facebook,myspace,blackplanet,twitta and youtube also other pages #staytuned
+id=2698051544, polarity=-0.06, clean=#newtwitter is still not working properly for me, it switches 2 the other screen but no tweets or anything load up. help? @twitterapi
+id=2697198327, polarity=-0.06, clean=going through my followers with the endless scrolling feature on  #newtwitter and following people i may have missed (:
+id=2708051869, polarity=-0.06, clean=i don't see what the fuss is one way or the other is about #newtwitter. seems about the same to me.
+id=2719037154, polarity=-0.06, clean=okay, how do you disable the keyboard shortcuts on #newtwitter ? taking over default keys like '/' and 'f5' as shortcuts is wrong!
+id=2718189785, polarity=-0.06, clean=i wonder why the #newtwitter dont've the you both follow section & still have the who2 follow section? excuse me but i prefer 1st mention!
+id=2707113019, polarity=-0.06, clean=trying not to be annoyed today, but its kind of difficult.  also, does the red on blue piss anyone else off on the #newtwitter ?
+id=2637198333, polarity=-0.06, clean=it's not fair. me and my sister use the same computer, and she's got the new twitter, and i haven't. i want the #newtwitter ! :@
+id=2641417104, polarity=-0.06, clean=if the new twitter takes effect in place of the current one, does that mean we have to reformat our backdrops? #newtwitter //
+id=2610041916, polarity=-0.06, clean=trying to get down the layout of the new twitter. it feels so foreign! #newtwitter #adjustments
+id=2698105644, polarity=-0.06, clean=using the #newtwitter :) it really isn't that bad! some people are complaining about it
+id=2634897860, polarity=-0.06, clean=this new twitter is damn slow it takes time to load tl and other menus... most of the time it is not loading them #fail #newtwitter
+id=2604001255, polarity=-0.06, clean=i am trying the new" #twitter -  not sure i like it?  if you like pls tell me what you like about it & why? #newtwitter
+id=2614499477, polarity=-0.06, clean=still doesn't have the new twitter :/ #newtwitter
+id=2628412834, polarity=-0.06, clean=just saw the new twitter not sure if i am too keen on it #newtwitter
+id=2629818651, polarity=-0.06, clean=#newtwitter not sure how i feel about this new twitter...
+id=2638017842, polarity=-0.06, clean=i despise the new twitter :/ #newtwitter
+id=2649204270, polarity=-0.06, clean=had to leave #newtwitter it wouldn't let me send tweets, so aggravating. i'm not sure if its twitter or new internet explorer.
+id=2649203350, polarity=-0.06, clean=had to leave #newtwitter it wouldn't let me send tweets, so aggravating. i'm not sure if its twitter or new internet explorer.
+id=2649202563, polarity=-0.06, clean=had to leave #newtwitter it wouldn't let me send tweets, so aggravating. i'm not sure if its twitter or new internet explorer.
+id=2652281255, polarity=-0.06, clean=not sure how i feel about this new twitter layout. #newtwitter
+id=2658506148, polarity=-0.06, clean=#newtwitter not sure i like this new twitter. #hateschange
+id=2659135277, polarity=-0.06, clean=new twitter. do i like it? not sure. what are your thoughts? #newtwitter
+id=2659088185, polarity=-0.06, clean=#newtwitter i'm still not sure what i think of you yet. must do some thinking...hmmm. *thinks on new twitter*
+id=2659378320, polarity=-0.06, clean=new twitter layout. still searching for something i like that goes with #newtwitter, but doubt i'm going to find it :\
+id=2659284349, polarity=-0.06, clean=still waiting for this new twitter :/  #newtwitter
+id=2659410466, polarity=-0.06, clean=#newtwitter we're playing about with the new twitter at www.affordablegolf.co.uk, not sure we like this... seems like overload
+id=2674908260, polarity=-0.06, clean=i dont know if i like the new twitter or not hmmm :-/ #newtwitter
+id=2673489169, polarity=-0.06, clean=question: do you like the new twitter? i'm not sure what to think bout it... #newtwitter
+id=2673141315, polarity=-0.06, clean=not enjoying the new twitter. #newtwitter #changeisscary
+id=2672278426, polarity=-0.06, clean=not sure how i feel about you yet, new twitter #newtwitter.
+id=2697264716, polarity=-0.06, clean=@ismiseadam sent it, #newtwitter dosent notify peoples of new dm's yet :/
+id=2673274771, polarity=-0.06, clean=can't decide if i like the new twitter or not i'm a little confused #newtwitter
+id=2706778554, polarity=-0.06, clean=haven't been on my computer for so long that i haven;t gotten used to #newtwitter yet. it's a bit strange still!
+id=2608247828, polarity=-0.05, clean=maybe #newtwitter is kinda better than twitter, you can tweet and you can also look at someone's profile. but i still hate new twitter.
+id=2672904041, polarity=-0.05, clean=i do not like the new twitter. someone tell me i can turn off the floating top bar? expanded rhs is annoying also. #newtwitter
+id=2639530666, polarity=-0.05, clean=new twitter sucks. won't work on work pc. maybe it needs a plugin of some sort. rt @chainsdd @wysie_soh got the same thing except #newtwitter
+id=2659050265, polarity=-0.05, clean=just installed new twitter... i like the new layout but it is little confusing... #newtwitter
+id=2707142680, polarity=-0.05, clean=my browser is 835px wide. getting kind of sick of sites that assume it's wider. (especially you, @facebook, @toggldevel, and #newtwitter.)
+id=2716865710, polarity=-0.05, clean=so, i fall off the social media grid for a little while and come back to #newtwitter.  hmmm...jury's out.
+id=2716563553, polarity=-0.05, clean=when #newtwitter says i'm similar to a conference or company, it's sometimes cool but mostly weird. maybe i'm an understudy if they go brok
+id=2697373734, polarity=-0.05, clean=it looks strange & will take some getting used to but, all-in-all i like #newtwitter.
+id=2697352837, polarity=-0.05, clean=#newtwitter is strange.
+id=2697338452, polarity=-0.05, clean=also? #newtwitter works at work, but not at home. so strange.
+id=2697175060, polarity=-0.05, clean=one thing i don't like about the #newtwitter is the reply options. it's harder to group several replies together; now have to cut & paste
+id=2708555026, polarity=-0.05, clean=also, is it just me or do the buttons on #newtwitter look inactive? a strange grey color.
+id=2707344310, polarity=-0.05, clean=#newtwitter is doing something strange so that i can't go to twitter.com and use tweetdeck w/o having to delete cookies.
+id=2707061719, polarity=-0.05, clean=why does #newtwitter tell me to follow people i'm already following? i can't follow any harder, twitter.
+id=2718684812, polarity=-0.05, clean=simultweeting harder with #newtwitter. have to open box to tweet. #bl10
+id=2718574862, polarity=-0.05, clean=@taylothlorien i tried that in #newtwitter because i expected that to be quite the same as #oldtwitter, but it doesn't seem to be there...
+id=2717303041, polarity=-0.05, clean=how long is #newtwitter going to be in 'preview' mode?
+id=2717015935, polarity=-0.05, clean=i've been ignoring #newtwitter for so long...
+id=2716609754, polarity=-0.05, clean=i still wish #newtwitter included the ability to send howler tweets. that would have been epic. i would send a few to bieber every day.
+id=2707329107, polarity=-0.05, clean=dear #newtwitter, i follow people, and then later, they're magically no longer followed by me. can that please be fixed?
+id=2706690551, polarity=-0.05, clean=#newtwitter isn't working for me now. back to the old twitter for me then :/
+id=2697576700, polarity=-0.05, clean=@officialgboi_ i really don't like the #newtwitter, it's a lil bit confusing
+id=2697118988, polarity=-0.05, clean=@rainandflames #newtwitter is terrible.  go back, go back! lol
+id=2707022875, polarity=-0.05, clean=#newtwitter, sucks. glad it let me go back to the old one. was expecting something waaayyyy different. that just looks like fucking garbage
+id=2717167321, polarity=-0.05, clean=give #newtwitter another chance? it's like boyfriend who fucked you over but you want to give another chance.  ok, maybe it's not like that
+id=2716890611, polarity=-0.05, clean=pretty much hating the #newtwitter - it feels awkward and cluttered
+id=2717081740, polarity=-0.05, clean=@mrsdamienmarley lol my bad i be extra late lookn at the replies .. still gettn use to this #newtwitter lls and idc .. wut time
+id=2697643961, polarity=-0.05, clean=honestly the #newtwitter isnt that bad, just takes some getting used to
+id=2716721907, polarity=-0.05, clean=this is weird but i am kinda starting to a little bit like #newtwitter. blehh. okay i will stop tweeting about that now or madolyn will -
+id=2697804222, polarity=-0.04, clean=i just left the #newtwitter preview. i wonder how long i can get away with it before i'm forced to use the new layout?!
+id=2716840865, polarity=-0.04, clean=i don't want to go back to #newtwitter! gtfo stupid blue thing at the top of my page!
+id=2672955810, polarity=-0.04, clean=changed new twitter profile background to more autumnal theme but there's not much showing around big #newtwitter box! :-(
+id=2639190370, polarity=-0.04, clean=i like twitter's transparency on their new rollout - the tech behind the new twitter.com  #newtwitter
+id=2656481668, polarity=-0.04, clean=new twitter? what the fuck is new about #newtwitter ?
+id=2698047760, polarity=-0.04, clean=@deejayeee thass retarded lol other than tht the #newtwitter str8 doe
+id=2708554364, polarity=-0.04, clean=effin #newtwitter my whole timeline got wipped out again!!! "i hate you so much right now" #newtwitter
+id=2680445922, polarity=-0.04, clean=new twitter design seems ok, but i hate it hiddens the layout that i had on the left... it pissed me off! #newtwitter
+id=2614163220, polarity=-0.04, clean=@mayhemstudios > for now> at least the #newtwitter allows you to jump back and forth between the current and new twitter.
+id=2614071111, polarity=-0.04, clean=at least the #newtwitter allows you to jump back and forth between the current and new twitter.
+id=2659659383, polarity=-0.04, clean=#newtwitter keeps wanting me to try it but every time i do, i get blank white screen.  new twitter sucks
+id=2678788805, polarity=-0.04, clean=hmmm, new twitter interface is all flashy and wide.  still, worth a shot #newtwitter
+id=2671052852, polarity=-0.04, clean=finally got the new twitter. only 23 days late... #newtwitter
+id=2717769464, polarity=-0.04, clean=imitation is flattery rt@jimjansen i'm probably not first to notice this, but the new twitter looks like  #newtwitter
+id=2708551262, polarity=-0.04, clean=the #newtwitter is not good for someone like me who needs to highlight text all the time! window on the right keeps opening and closing!
+id=2615576658, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2626884007, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2634572487, polarity=-0.04, clean=i still can't access the new twitter! :/ #newtwitter
+id=2633940504, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2633408500, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2637711303, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2637340076, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2644433362, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2643969488, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2643709300, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2648621113, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2651944171, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2657036273, polarity=-0.04, clean=@lizzieanderton rt i can not access the new twitter! :/ #newtwitter
+id=2656734135, polarity=-0.04, clean=i wanna access the new twitter! :/ #newtwitter
+id=2657564512, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2658103684, polarity=-0.04, clean=me either rt @lizzieanderton i can not access the new twitter! :/ #newtwitter
+id=2658599579, polarity=-0.04, clean=i can't access the new twitter! :/ #newtwitter
+id=2659360878, polarity=-0.04, clean=i can't access the new twitter! :/ #newtwitter
+id=2679990193, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2672785832, polarity=-0.04, clean=well well...i have the new twitter! no more moaning tweets from me saying i haven't go it anymore #newtwitter
+id=2672226731, polarity=-0.04, clean=i can not access the new twitter! :/ #newtwitter
+id=2718848217, polarity=-0.04, clean=the #newtwitter is just plain getting on my nerves now .. back to the old jawn
+id=2609730226, polarity=-0.04, clean=not sure about this new twitter design - it's different, it's slower.... #newtwitter
+id=2636672641, polarity=-0.04, clean=@born2die999 @service #newtwitter i'd upgraded to the latest firefox version 3.6.10 and still have issues with the new twitter int :((
+id=2656179024, polarity=-0.04, clean=i sure wish the new @twitter layout would show up on my account. i wonder what it looks like... :( #newtwitter
+id=2658643337, polarity=-0.04, clean=just got the new twitter a few minutes ago! #newtwitter #finally 
+id=2658954212, polarity=-0.04, clean=@dobiempc: what this new twitter ting.? it's all the rage, keep up. you have to wait tho. seems pretty random #newtwitter
+id=2659594323, polarity=-0.04, clean=i'm not sure how i feel about the new twitter, its just so different #newtwitter
+id=2681763693, polarity=-0.04, clean=i finally got the new twitter. i'm not sure if i like it or not #newtwitter
+id=2674309324, polarity=-0.04, clean=all those tweets from people saying they can't find the usual things on #newtwitter... are they looking at the same new twitter as i am?
+id=2717833714, polarity=-0.04, clean=#newtwitter breaks open in new tab... :/
+id=2698060816, polarity=-0.04, clean=@matthewemay you mean #newtwitter wastes this huge sidebar? (atomic browser on #ipad) 1/2  #twitpict 
+id=2718160621, polarity=-0.04, clean=#newtwitter isn't only slow, it's dumb as f*ck too. it tells me i'm not following someone i follow, but all is ok when i use #oldtwitter -_
+id=2603146621, polarity=-0.03, clean=there is no new twitter only zool #newtwitter
+id=2651819536, polarity=-0.03, clean=still no new twitter in my neck of the woods... is anyone actually using the #newtwitter??
+id=2658558169, polarity=-0.03, clean=just to rub it in, and to make a tiny correction, that should be #newtwitter, not new #twitter - just so we understand ...
+id=2675509401, polarity=-0.03, clean="try the #newtwitter" -is irritating me that is why i have no choice but to change to the new twitter!!!! if you are also irritated retweet
+id=2706706691, polarity=-0.03, clean=heated toilet is trending on #newtwitter because of justin bieber? the tweens must be stopped
+id=2681040356, polarity=-0.03, clean=i will only switch to new twitter when the old interface is no longer available #newtwitter #hate
+id=2659120605, polarity=-0.03, clean=i hate the new twitter! lol just sayin...#newtwitter sucks
+id=2658408507, polarity=-0.03, clean=u_u new twitter is too confusing rt @teambillymartin i'm on #newtwitter right now, just to see how rp will be like. :s not a fan.
+id=2683714363, polarity=-0.03, clean=is liking the new twitter! gonna take a little bit of getting used to! #newtwitter
+id=2602860537, polarity=-0.03, clean=10 things missing in the new twitter interface  #newtwitter
+id=2622887964, polarity=-0.03, clean=#twitter #newtwitter it looks like the new twitter page design will go into effect in about a few weeks. man, i can't wait
+id=2627337835, polarity=-0.03, clean=getting as impatient as @lizziebunny ... want new twitter #newtwitter
+id=2637358954, polarity=-0.03, clean=new twitter has a few bugs...#newtwitter
+id=2638855467, polarity=-0.03, clean=anybody else having trouble updating lists in the new twitter format? #newtwitter
+id=2648864671, polarity=-0.03, clean=anyone else having trouble with the new twitter?  no reply or retweet option...#verysad #newtwitter
+id=2652977672, polarity=-0.03, clean=i also need a new twitter background, now that this one is absolutely redundant with  the  #newtwitter.
+id=2658002425, polarity=-0.03, clean=still waiting for new twitter. joined 12april'07  ? #wdyjt #newtwitter #whereartthou? #impatient
+id=2687294221, polarity=-0.03, clean=holy. shit. i dont like new twitter already :l #newtwitter
+id=2681958147, polarity=-0.03, clean=#newtwitter i like this new twitter but i'm not really comfortable yet ..
+id=2678418939, polarity=-0.03, clean=need to do my background need as the new twitter makes it shit #newtwitter
+id=2672360582, polarity=-0.03, clean=twitter you are not gonna tempt me into getting the new twitter. i regret upgrading shit like that since fb. #newtwitter #suckit
+id=2671663419, polarity=-0.03, clean=i ... i like new twitter? a few changes seem counterintuitive, but i like the media integration. #newtwitter
+id=2717232804, polarity=-0.03, clean=#newtwitter i like it except for 'message'. followers disappear, sent dms don't show, no 'light on' for new dm. is it operator headspace?
+id=2708301028, polarity=-0.03, clean=my apologies everyone, it seems that the #newtwitter  is acting a bit odd. not getting my dm's. will give this place a break for a few. ;)
+id=2677868053, polarity=-0.03, clean=new twitter throw down ~ some rant and scream "coup d'état!" ~ others mumble "meh" #lqw #haiku #newtwitter
+id=2655329790, polarity=-0.03, clean=@la_ory same here.... #newtwitter is obviously a myth !! or maybe we have the new twitter but it still looks like the #oldtwitter :s
+id=2657943299, polarity=-0.03, clean=hmm supposedly changing to the beta version of ie9 would give me more than a blank page with the new twitter app. it does'nt. :( #newtwitte
+id=2658577634, polarity=-0.03, clean=on the web right rt @chan_cookie: [pssst... the new version of twitter is here.] #newtwitter sucks :)
+id=2609290996, polarity=-0.03, clean=not digging the new twitter, ruins my background! #newtwitter
+id=2658676551, polarity=-0.03, clean=a little apprehensive about switching over to the new twitter so soon.. what do y'all think? #newtwitter
+id=2707308097, polarity=-0.03, clean=#newtwitter has made it very possible to stalk someone at all times. its like some #fbi top secret shit
+id=2717974076, polarity=-0.03, clean=@orentodoros i kinda like #newtwitter, theres a few things i dont like (at least in how i use it). in general not bad. i know i am in minorit
+id=2706756625, polarity=-0.03, clean=avoiding #newtwitter as long as possible. just don't like it. unclutter it please.
+id=2697897178, polarity=-0.02, clean=on #newtwitter, when i click to reply it doesn't let me tweet, making me go back to old twitter. not cool.
+id=2707657113, polarity=-0.02, clean=#newtwitter layout isn't really suited to small screen estate
+id=2706992088, polarity=-0.02, clean=#newtwitter doesn't really work on small #netbook screens. #newtwitterfail
+id=2717400623, polarity=-0.02, clean=i shouldn't admit this, but i'm not sure why i really care about #newtwitter.  it doesn't add anything to the experience, for me.
+id=2697337459, polarity=-0.02, clean=well i guess ima be retweeting the manual way by copying & pasting. stupid #newtwitter. :p
+id=2632044394, polarity=-0.02, clean=what new twitter?! :rt @fresco_ent: rt @xtraordeenary what new twitter? :rt @darenzz: #newtwitter sucks <--agreed!
+id=2641417080, polarity=-0.02, clean=it's a race between you and me to not be the last and only person without #newtwitter. rt @jazzhoops @jdg_holden still no new twitter.
+id=2650557846, polarity=-0.02, clean=my thoughts about new twitter.. its slower on slow connections then old twitter... #newtwitter
+id=2676986921, polarity=-0.02, clean=i like the #newtwitter too, but its not a huge improvement rt @lulzish: @donalmerrick am i the only one who likes the new twitter?
+id=2609558582, polarity=-0.02, clean=i updated twitter with new twitter software last night. still need 2 discover the 'newness' of the #newtwitter. or am i missing something?
+id=2645998797, polarity=-0.02, clean=@reedsmith having same thoughts! reminds me a lot of the new #twitter ipad app. not as "heavy" as #tweetdeck - #newtwitter #hcmktg #mhealth
+id=2659763530, polarity=-0.02, clean=confused by the new twitter layout? @iamwill helps explain #newtwitter with a song:  how much was he paid for this?
+id=2673498207, polarity=-0.02, clean=got the new twitter finally! #newtwitter #green
+id=2686692340, polarity=-0.02, clean=#newtwitter sucks. i hope they don't delete the old twitter and make the new twitter as the norm..
+id=2707667600, polarity=-0.02, clean=@twitter why there's no notification about new direct messages on #newtwitter? it sucks
+id=2615550604, polarity=-0.02, clean=how long is it going take for me to get the new twitter and os 6 for blackberry bold 9700? fuck! #fb #newtwitter #blackberry6
+id=2717811978, polarity=-0.02, clean=i want my #newtwitter back - had it just long enough to long for it - using #oldtwitter since #newtwitter is blank page help @twitter
+id=2696944943, polarity=-0.02, clean=also too much white. i like my colored space better; easier on my eyes. how do i get back to old twitter? grr #newtwitter
+id=2659052683, polarity=-0.02, clean=i am already sick of new twitter going back to old cuz it's much cooler. suck it #newtwitter !!!
+id=2649167170, polarity=-0.02, clean=didn't realize til now the #newtwitter uses the little blue glow new item notification from tweetie / twitter ipho 
+id=2637530031, polarity=-0.02, clean=bollocks, both my followers and my following data are back. and no new twitter, i don't think there is such thing as #newtwitter.
+id=2708178214, polarity=-0.02, clean=i love #newtwitter but it's pretty annoying.
+id=2697502532, polarity=-0.02, clean=i'm finally trying #newtwitter... took long enough!
+id=2716837615, polarity=-0.02, clean=finally got the #newtwitter. jeez, it took long enough. is this it?
+id=2707043046, polarity=-0.02, clean=funny seeing all the negative tweets on the #newtwitter hashtag, especially when twitter itself promotes the tag on its homepage
+id=2682618721, polarity=-0.02, clean=love the explanation for #newtwitter: people are discussing the new twitter which is overly complicated & was a waste of time developing.
+id=2638380681, polarity=-0.02, clean=slightly gutted i still dont have the new twitter #newtwitter
+id=2679055140, polarity=-0.02, clean=i see new twitter is slightly faster...#newtwitter
+id=2678302057, polarity=-0.02, clean=new twitter will you please stop saying pssst at me. it makes me feel even less inclined to try you out. #newtwitter #makesmestabby
+id=2658692398, polarity=-0.01, clean=pssst...the  new version of twitter is here. try it now!      yeahh right think ill pass #newtwitter
+id=2718622554, polarity=-0.01, clean=@cheekycharl2015 okay... not too bad so far! #newtwitter maybe this will work!
+id=2619951562, polarity=-0.01, clean=@camillaleila you're not alone. i guess i'm not cool enough for new twitter. #newtwitter
+id=2653195622, polarity=-0.01, clean=switched back to the old #twitter -- couldn't stand the new version's refusal to simply let me add people to my lists! #sucks #newtwitter
+id=2611912350, polarity=-0.01, clean=uhm......sweet @twitter, i love you.....but i still don't have the new twitter!! :( #newtwitter
+id=2610509770, polarity=-0.01, clean=what does everyone think of the new twitter?  i think the right-hand column is too wide for my liking.  boo!  hiss!  #newtwitter
+id=2633035509, polarity=-0.01, clean=wait! will there be a new #twitter for #iphone and other phones with the #newtwitter? hell no!
+id=2682342955, polarity=-0.01, clean=don't like new twitter...my favourites and listed columns seem jumbled up with each other! #newtwitter
+id=2680254325, polarity=-0.01, clean=agreed! rt @sfaulstich i wish #newtwitter would go away! rt @justdana3 i wish twitter stopped offering me the new twitter. not interested!
+id=2653394040, polarity=-0.01, clean=shocked! @dharmeshg does not have new twitter yet?? haw? #newtwitter beware.this boy has set straight many ppl.don't biliu? ask @vodafonein
+id=2643418986, polarity=-0.01, clean=who likes the new twitter? i'd like the side menu to scroll down with me as a browse #newtwitter
+id=2659205887, polarity=-0.01, clean=whoa new twitter.....just whoa. take it down a notch #newtwitter
+id=2659580669, polarity=-0.01, clean=twitter starts rolling out the new layout and then goes down? #newtwitter
+id=2659570657, polarity=-0.01, clean=twitter starts rolling out the new layout and then goes down? #newtwitter
+id=2674265346, polarity=-0.01, clean=the twitter ipad app beats the new twitter hands down #newtwitter
+id=2707858896, polarity=-0.01, clean=hey, i didn't know this about #newtwitter: if you hit 'n', you'll bring up a new tweet entry box, even if you're scrolled down the page.
+id=2634271577, polarity=-0.01, clean=hmm. still no #newtwitter. hmm. when i got a new facebook, i complained. when i get a new twitter, i'll be psyched. #suckitfacebook
+id=2682043034, polarity=-0.01, clean=even jesus got new twitter....@baderkamal rt @jesus_m_christ: this #newtwitter is like new coke. daddamn, this is confusing.
+id=2697589492, polarity=-0.01, clean=i neveer go on #twitter from my computer so technically .. i don't have the #newtwitter ... #gay ... #true ... #stupid .... #iwonder
+id=2658093869, polarity=-0.01, clean=i don't know about this whole new twitter thing...it seems basically the same and i still have the same dumb followers...#newtwitter
+id=2652397064, polarity=-0.01, clean=@willardnation @twitter has been riding my dick recently about a #newtwitter "in the next few weeks, we'll be revealing a new twitter!".
+id=2708363918, polarity=-0.01, clean=@twitter:  the #newtwitter just sucks.  the right sidebar is too wide...bloated...and now everyone has to redo their background image.
+id=2716707241, polarity=-0.01, clean=@natabbotts i complained about the #newtwitter template change too, but if you're stuck with it, may as well do it right
+id=2672265596, polarity=-0.01, clean=#newtwitter is a little disappointing i was kinda expecting a bit more. oh wait ahhh! new twitter  i thought it said nude twitter.
+id=2697902262, polarity=-0.00, clean=#newtwitter i don't like the way its laid out on the page,the right side green part bugs me,too wide and favorites/listed too big/cramped
+id=2658635604, polarity=-0.00, clean=new twitter is weird but cool, i guess. #whocaresreally #newtwitter
+id=2657295443, polarity=-0.00, clean=i've still got the old twitter do i want the new one? :s tweet me and tell me if i should get #newtwitter
+id=2656962164, polarity=-0.00, clean=#newtwitter wot a load of bollux can not even get a grip on da old twiter, ere duz new twitter meen dat fale whale aint no more?
+id=2672536387, polarity=-0.00, clean=hhmmm not sure me likey the new twitter, its to busy and spread out all over the place 8(.. #newtwitter
+id=2659234410, polarity=-0.00, clean=#newtwitter #ui #ux actually the new twitter ui is pretty confusing. sorry to say i expected more
+id=2670952415, polarity=-0.00, clean=the new twitter design is about to make those specially designed backgrounds for corporate twitter sites useless.  #newtwitter
+id=2683238658, polarity=-0.00, clean=absolutely despises the new twitter. plus it made power twitter go away so i am highly inconvenienced. #newtwitter #fail
+id=2707182860, polarity=-0.00, clean=#newtwitter is confusing.. :s i wish i could say i'd get used to it with time, but honestly i just really don't like it. :/
+id=2602293760, polarity=0.00, clean=how to make backgrounds for #newtwitter  via @askdebra @gautamghosh @shilpiiz @socialsidemedia
+id=2605514919, polarity=0.00, clean=@iammsparker did you read our post on #newtwitter  ? @alexpriest @itsdarryldsmith @amylizmartin @mikeschaffer
+id=2604901508, polarity=0.00, clean=@jigglybits1914 try this one: #newtwitter introduction 
+id=2604847192, polarity=0.00, clean=|| hmm... #newtwitter || 
+id=2604462074, polarity=0.00, clean="#newtwitter is about 50 percent rolled out  wheres the facebook-style backlash?" - 
+id=2604395808, polarity=0.00, clean=#newtwitter is about 50 percent rolled out  wheres the facebook-style backlash? -  rt @mikelking
+id=2604209867, polarity=0.00, clean=@mkemegs #newtwitter (doesn't affect tweetdeck)   via @mashsocialmedia @mashable
+id=2608263734, polarity=0.00, clean=how to make twitter backgrounds for the #newtwitter 
+id=2607943616, polarity=0.00, clean=need to reformat your twitter background for the #newtwitter? follow these guidelines and use the templates here: 
+id=2607657849, polarity=0.00, clean=want to know what size the #newtwitter background should be? @froginthefield ... @nikkipilkington has a fab guide 
+id=2607591836, polarity=0.00, clean= my review:  #newtwitter v. @hootsuite (via @seoboy)
+id=2606155946, polarity=0.00, clean=#newtwitter is about 50 percent rolled out  wheres the facebook-style backlash?  via @techcrunch interview
+id=2606094170, polarity=0.00, clean=#newtwitter is about 50 percent rolled out  wheres the facebook-style backlash?  via @techcrunch #facebook vs #twitter
+id=2610481929, polarity=0.00, clean=twitter has changed. check out what that means to you.  #newtwitter #firespring #marketing
+id=2610334117, polarity=0.00, clean=i wrote about it here:  rt @alwayssunnyfx: #newtwitter #latecomplainer #haventseenitbefore #sunnyf
+id=2609307480, polarity=0.00, clean=sudo apt-get update && sudo apt-get install new-twitter  a chin me confundi esta no es mi terminal pero yeah pronto !!!! #newtwitter
+id=2609216741, polarity=0.00, clean=take the poll: how do you feel about the #newtwitter?  ^sp
+id=2608920754, polarity=0.00, clean=#newtwitter 
+id=2612738803, polarity=0.00, clean=we like the #newtwitter design! 
+id=2612664212, polarity=0.00, clean=how to use twitter lists #newtwitter  #helpful #twitter #basics don't need to follow a user to add them to list
+id=2611999798, polarity=0.00, clean=@yermilla check it out #newtwitter 
+id=2611411491, polarity=0.00, clean=#newtwitter using the fibonacci series?! what?! 
+id=2617561319, polarity=0.00, clean=if you're wondering what #newtwitter is all about, shannon gives us the highlights @cajun_mama  
+id=2615658723, polarity=0.00, clean=@jones_fletcher click #newtwitter on the homepage (re:new twitter)
+id=2622750907, polarity=0.00, clean=maybe by design? rt @bradshorr #newtwitter design obsoletes custom backgrounds? 
+id=2620564958, polarity=0.00, clean=@wvmtngrl07 @donnaclt thx for rt of the link. updated fixes for #newtwitter 
+id=2619974932, polarity=0.00, clean=read this article about the #newtwitter pay close attn to the shortcut section    via @techcrunch
+id=2628314908, polarity=0.00, clean=@hivalicious  rt @enriqueansaldi     tuto #newtwitter  // 
+id=2624941871, polarity=0.00, clean=via @heathercowper: if you're wondering what #newtwitter is all about, shannon gives us the highlights @cajun_mama 
+id=2631818504, polarity=0.00, clean=the #newtwitter has rate limits 
+id=2631419170, polarity=0.00, clean=@katemorris if that didn't work you can always watch my review here  #newtwitter
+id=2631229413, polarity=0.00, clean=that is rad...rt @curtarledge: i was feeling kinda meh about #newtwitter until i saw this: 
+id=2631044080, polarity=0.00, clean=i was feeling kinda meh about #newtwitter until i saw this: 
+id=2629593311, polarity=0.00, clean=need help with your #newtwitter background? or in need of some inspiration?  #twitterbackground
+id=2629418259, polarity=0.00, clean=redesigning #newtwitter 
+id=2636158565, polarity=0.00, clean=so the #newtwitter has rate limits too -  #fb
+id=2634621767, polarity=0.00, clean=hmm...new twitter... #newtwitter
+id=2634471746, polarity=0.00, clean=prácticort @eba67: pautas para modificar tu plantilla en nuevo tw"how to make twitter backgrounds for the #newtwitter" 
+id=2634105122, polarity=0.00, clean=realigning the #newtwitter  by @rodrigogalindez
+id=2634104308, polarity=0.00, clean=for you @piyushj_31 #newtwitter 
+id=2637829538, polarity=0.00, clean=for the ones who still haven't got the #newtwitter  via @mashsocialmedia
+id=2636435137, polarity=0.00, clean=#newtwitter  be warned.. even twitter don't want you spending all day on here!
+id=2638280940, polarity=0.00, clean=how to make a custom background for #newtwitter: 
+id=2638196646, polarity=0.00, clean=i like the all-new twitter. #newtwitter is the best...in my opinion.
+id=2642075863, polarity=0.00, clean=@mrsnark  #newtwitter remove who to follow ++ 
+id=2642031662, polarity=0.00, clean=@kiwinerd  #newtwitter remove who to follow ++ 
+id=2639882305, polarity=0.00, clean= i told yall i was waiting for this #newtwitter
+id=2646463156, polarity=0.00, clean=how to customize your #newtwitter background  rt @davedelaney @mayhemstudios @askaaronlee
+id=2645829041, polarity=0.00, clean=#newtwitter gets mashable-approved in reader vote  via @mashable <<how!?
+id=2645562011, polarity=0.00, clean=twitter: how to customize your #newtwitter background  via @mayhemstudios @davedelaney
+id=2645539567, polarity=0.00, clean=how to customize your #newtwitter background  rt @mayhemstudios rt @davedelaney
+id=2645497509, polarity=0.00, clean=@ambercadabra here you go.  dimensions just beneath the second paragraph  #newtwitter
+id=2645488489, polarity=0.00, clean=@ambercadabra how to customize your #newtwitter background  #li
+id=2645337266, polarity=0.00, clean=go here  @ambercadabra can anyone point me to specs/dimensions for background layouts for #newtwitter?
+id=2645152396, polarity=0.00, clean=#newtwitter = @mashable approved 
+id=2645075521, polarity=0.00, clean=fans @mashable agree, #newtwitter thumbs up... so do we 
+id=2649391822, polarity=0.00, clean=yeah, #newtwitter can screw up backgrounds, @jamesbalcerak. but @banyanbranch has a fix:  #needtodothat
+id=2648425864, polarity=0.00, clean= #mashable's poll on the #newtwitter
+id=2651441039, polarity=0.00, clean=#newtwitter na área :d 
+id=2650966330, polarity=0.00, clean=@jdistraction looking for this?  #newtwitter remove who to follow ++ 
+id=2650652121, polarity=0.00, clean=@gariphic found it! blocking users on the #newtwitter 
+id=2649391822, polarity=0.00, clean=yeah, #newtwitter can screw up backgrounds, @jamesbalcerak. but @banyanbranch has a fix:  #needtodothat
+id=2653274901, polarity=0.00, clean= got the no-new-twitter blues  #newtwitter
+id=2657528038, polarity=0.00, clean=tips for customizing your background for #newtwitter from @mashable: 
+id=2656433529, polarity=0.00, clean=el #newtwitter en psd  #webdesign
+id=2657955172, polarity=0.00, clean=aha! i was waiting for this: designing backgrounds for the #newtwitter - 
+id=2657794474, polarity=0.00, clean=want to learn how to customize your #newtwitter background? @mashable has the details for you  #socialmedia #tech
+id=2657781428, polarity=0.00, clean=how to: customize your background for the #newtwitter  via  @mashable
+id=2657761647, polarity=0.00, clean=helpful post from @mashable on customizing your background for #newtwitter 
+id=2657698896, polarity=0.00, clean=how to customize ur #newtwitter  (via @mashsocialmedia)
+id=2657674920, polarity=0.00, clean=how to: customize your background for the #newtwitter  rt @mashable
+id=2657670147, polarity=0.00, clean=saw by chance that people are looking for #newtwitter.  answer here -   rt @oneforty via @meltinglce
+id=2657664684, polarity=0.00, clean=how to: customize your background for the #newtwitter   #socialmedia #branding
+id=2657657259, polarity=0.00, clean=how to design backgrounds for #newtwitter 
+id=2657615779, polarity=0.00, clean=how to: customize your background for the #newtwitter -  (via @mashable)
+id=2657599145, polarity=0.00, clean=como customizar seu background e seu design no #newtwitter  via @mashdevdesign @mashable
+id=2657592014, polarity=0.00, clean=how to: customize your background for #newtwitter 
+id=2657591057, polarity=0.00, clean=how to: customize your background for the #newtwitter (via @mashable) - 
+id=2657588540, polarity=0.00, clean=how to customize the #newtwitter background 
+id=2657584487, polarity=0.00, clean=get your #newtwitter background purring like a kitten 
+id=2657582481, polarity=0.00, clean=how to: customize your background for the #newtwitter -  via @mashsocialmedia cc @marcbourguignon
+id=2657577321, polarity=0.00, clean=how to customize your background for #newtwitter:  via @mashable
+id=2658380054, polarity=0.00, clean=em,,,,wow,,,,new twitter!! em.....seems a litter strange.// #newtwitter
+id=2658330448, polarity=0.00, clean=designers and friends of: how to customize your #newtwitter background  via @shawnvenkat
+id=2658103743, polarity=0.00, clean=how to: customize your background for the #newtwitter  via @mashdevdesign @mashable
+id=2658407265, polarity=0.00, clean=rt @annayh: em,,,,wow,,,,new twitter!! em.....seems a litter strange.// #newtwitter
+id=2658598262, polarity=0.00, clean=@onlycodered i think you can twitter.com/#/new-post-here the "#" is what does it for links on #newtwitter
+id=2658584730, polarity=0.00, clean=[ ] customize your background for the #newtwitter: 
+id=2658658060, polarity=0.00, clean=how to: customize your background for the #newtwitter 
+id=2658648508, polarity=0.00, clean=the coolest thing about the #newtwitter is the keyboard shortcuts: 
+id=2658635568, polarity=0.00, clean=how to customize you #newtwitter background: 
+id=2658868636, polarity=0.00, clean=yeahhhhhhhhhhh!!!!new twitter with me:)))))i like it!!! #newtwitter
+id=2659050304, polarity=0.00, clean=@iconaholic i know you've been itching for an update to my #newtwitter extension: 
+id=2659011197, polarity=0.00, clean=customize your background for the #newtwitter  via @mashable
+id=2659293705, polarity=0.00, clean=check out google wave/new twitter. -- check it out  #newtwitter  via @youtube
+id=2659637544, polarity=0.00, clean=check it out #newtwitter featuring @iamwill & @nickiminaj -- 
+id=2685512389, polarity=0.00, clean=@grahammickley  here you go - some instructions for #newtwitter backgrounds.  #mysmb
+id=2685335145, polarity=0.00, clean=i needn't have bothered with a #newtwitter background article   now that there's  .
+id=2684694165, polarity=0.00, clean=how to customize your background on #newtwitter  (via @mashable)
+id=2683389829, polarity=0.00, clean=revamp your background for #newtwitter  (via @justinmckeown)
+id=2682331660, polarity=0.00, clean=how to: customize your background for the #newtwitter  via @mashdevdesign #socialmedia
+id=2680481433, polarity=0.00, clean=tutorial #newtwitter 
+id=2680049908, polarity=0.00, clean=@scout_catalogue  re: customizing background for #newtwitter. follow @mashable for up to date info on all things techy. 
+id=2678313284, polarity=0.00, clean=@mommywantsvodka #newtwitter fixes, including removing who to follow  
+id=2676793161, polarity=0.00, clean=[vid] check it out: will.i.am demos #newtwitter 
+id=2675943336, polarity=0.00, clean=love.the.new.twitter :d #newtwitter
+id=2675779590, polarity=0.00, clean=@vortexrally you haven't heard of #newtwitter?!?!  
+id=2675528683, polarity=0.00, clean=#newtwitter is finally here for (almost) everyone  (yup, including me)
+id=2675522775, polarity=0.00, clean=#newtwitter rt @fatimadevos: voor de crea-bea's: 
+id=2675171316, polarity=0.00, clean=just found out about the #newtwitter shortcuts 
+id=2675046799, polarity=0.00, clean=for anyone with #newtwitter 
+id=2674381761, polarity=0.00, clean=new twitter kills custom backgrounds  #newtwitter
+id=2673570901, polarity=0.00, clean=new twitter is finally here for (almost) everyone:  #newtwitter
+id=2673450037, polarity=0.00, clean=revamp your background for #newtwitter  (via @justinmckeown)
+id=2673444869, polarity=0.00, clean=revamp your background for #newtwitter  (via @justinmckeown)
+id=2673121229, polarity=0.00, clean=@laurahickman give our blog post a read we reckon it'll help. we know a lot of people who don't like the #newtwitter! 
+id=2672873019, polarity=0.00, clean=revamp your background for #newtwitter  (via @justinmckeown)
+id=2672720856, polarity=0.00, clean=new twitter is finally here for (almost) everyone!! #newtwitter 
+id=2672625698, polarity=0.00, clean=#newtwitter  shortcuts : 
+id=2672596539, polarity=0.00, clean=revamp your background for #newtwitter  (via @justinmckeown)
+id=2672591768, polarity=0.00, clean=revamp your background for #newtwitter  (via @tweetcaroline)
+id=2672528620, polarity=0.00, clean=here how you can customize your #newtwitter background 
+id=2672238825, polarity=0.00, clean=new.twitter.sucks #newtwitter
+id=2671667282, polarity=0.00, clean=adding css magic from @kitchenmage makes #newtwitter nicer. goodbye trends, promoted, and what the fuck.  -- should be in prefs!
+id=2671543501, polarity=0.00, clean=@socialwendy some #newtwitter fixes 
+id=2671508446, polarity=0.00, clean=my thoughts on #newtwitter: 
+id=2670548934, polarity=0.00, clean=how to: customize your background for the #newtwitter -  /via @mashable / @gloson @2cre8 @iam_chi
+id=2670535172, polarity=0.00, clean=how to: customize your background for the #newtwitter -  /via @mashable / @gloson @2cre8
+id=2698538627, polarity=0.00, clean=gostei do #newtwitter
+id=2698520624, polarity=0.00, clean=@matheussmpl mas eu to no #newtwitter, nn tem um freaktoysoldier ali do lado. '-'
+id=2698519884, polarity=0.00, clean=i like the #newtwitter
+id=2698519782, polarity=0.00, clean=ohhh!! i like the #newtwitter!
+id=2698518976, polarity=0.00, clean=nao gostei do #newtwitter!
+id=2698513392, polarity=0.00, clean=finally i got the #newtwitter
+id=2698511361, polarity=0.00, clean=so i kindof like this #newtwitter
+id=2698507675, polarity=0.00, clean=yes! #newtwitter is working again!!
+id=2698502588, polarity=0.00, clean=uqhhh ihate tha #newtwitter !
+id=2698500719, polarity=0.00, clean=#newtwitter ulalaaa
+id=2698498337, polarity=0.00, clean=ahh!  i have #newtwitter now and i'm not sure i'm ready!
+id=2698496576, polarity=0.00, clean=just like facebook, everyone complains when they make changes but eventually you get used to it.. #newtwitter
+id=2698495578, polarity=0.00, clean=the #newtwitter makes me feel lopsided. #help
+id=2698495155, polarity=0.00, clean=like all things #newtwitter will take some getting used to
+id=2698494938, polarity=0.00, clean="bn2l twit world domination" the ultimate solution & my 1st ebook will be posted b4 @support gets #newtwitter to stay wrking on my account!
+id=2698486619, polarity=0.00, clean=monetary visit after a one week break from twitter. it is still the same but i finally got #newtwitter.
+id=2698483466, polarity=0.00, clean=#newtwitter cool/lero...
+id=2698477685, polarity=0.00, clean=this #newtwitter is kinda dope!
+id=2698476661, polarity=0.00, clean=thank god....just got #newtwitter
+id=2698474736, polarity=0.00, clean=to perdidinha nesse #newtwitter d:
+id=2698473366, polarity=0.00, clean=the #newtwitter have problems with counters
+id=2698473154, polarity=0.00, clean=#newtwitter iis complicaated andd shiedd
+id=2698469439, polarity=0.00, clean=gente, o que vcs acharam do #newtwitter ?
+id=2698458397, polarity=0.00, clean=#newtwitter is a letdown smh
+id=2698454395, polarity=0.00, clean=i like this #newtwitter
+id=2698453662, polarity=0.00, clean=boa, #newtwitter. vou ter que usar tweetdeck em casa também.
+id=2698453276, polarity=0.00, clean=@kt_go  no problem. i'm still learning #newtwitter myself. you like it?
+id=2698450290, polarity=0.00, clean=still not liking the #newtwitter...
+id=2698447716, polarity=0.00, clean=@aureaqsn aham li ,n gosto do #newtwitter então
+id=2698446921, polarity=0.00, clean=usando o #newtwitter
+id=2698444802, polarity=0.00, clean=vou pro #newtwitter, huhu
+id=2698441343, polarity=0.00, clean=@imxmaster1 this is #newtwitter  check it out
+id=2698440540, polarity=0.00, clean=esse #newtwitter deixa meu pc leeeento, porque ?
+id=2698433177, polarity=0.00, clean=this #newtwitter is iight.
+id=2698432663, polarity=0.00, clean=esse #newtwitter me deixa tonta
+id=2698431994, polarity=0.00, clean=i wish they would make a #newtwitter for android phones.
+id=2698431120, polarity=0.00, clean=hm.. i don't like how it doesn't tell you you have a message. #newtwitter
+id=2698422175, polarity=0.00, clean=bi11z heaa . just qott that #newtwitter shiid
+id=2698421358, polarity=0.00, clean=@dirtybirdphnx what the hell is #newtwitter ??
+id=2698417631, polarity=0.00, clean=i can not access the #newtwitter
+id=2698412130, polarity=0.00, clean=tryna figure out how to work this #newtwitter
+id=2698405954, polarity=0.00, clean=@itsshaebiiiitch fuckin wit dis #newtwitter bullshit i didnt c it lls no blackberry ova here lls ---> t-mobile hd2
+id=2698403367, polarity=0.00, clean=finally #newtwitter
+id=2698400207, polarity=0.00, clean=#newtwitter ???
+id=2698400051, polarity=0.00, clean=i like the #newtwitter
+id=2698370415, polarity=0.00, clean=what i don't like about #newtwitter : i can't see the time of the tweet! how am i suppose to prove that i tweeted at 10:10 during 10/10/10
+id=2698367800, polarity=0.00, clean=fico muito shou o #newtwitter !
+id=2698363553, polarity=0.00, clean=thank god #newtwitter isnt permanent. .. (;
+id=2698362159, polarity=0.00, clean=lovin the #newtwitter
+id=2698360418, polarity=0.00, clean=quien necesita el #powertwitter cuando tienes el #newtwitter ???
+id=2698355790, polarity=0.00, clean=trying to get the hang of this #newtwitter hmmmmm.
+id=2698352574, polarity=0.00, clean=kinda like the #newtwitter
+id=2698351577, polarity=0.00, clean=gostei do #newtwitter
+id=2698348062, polarity=0.00, clean=o #newtwitter é horrivel -.-
+id=2698348043, polarity=0.00, clean=dont like the #newtwitter
+id=2698347644, polarity=0.00, clean=#newtwitter will help you relax and sleep soon. 
+id=2698334642, polarity=0.00, clean=why is the 'tweet' section smaller? #newtwitter
+id=2698332504, polarity=0.00, clean=i fucks with tha #newtwitter
+id=2698326897, polarity=0.00, clean=question... why don't i get this #newtwitter on my iphone? -_-
+id=2698320460, polarity=0.00, clean=aonde fica a dm nesse #newtwitter?
+id=2698319004, polarity=0.00, clean=just got #newtwitter
+id=2698317967, polarity=0.00, clean=i think i am the only one whos not on the #newtwitter . i dont like change.
+id=2698317114, polarity=0.00, clean=infinite scroll is making twitter very addictive. #myweakness #newtwitter
+id=2698314331, polarity=0.00, clean=how do i get out of the #newtwitter ? help!
+id=2698310128, polarity=0.00, clean=did #newtwitter do away with the "followers you also follow" feature? i can't seem to find it.
