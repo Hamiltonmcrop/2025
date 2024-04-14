@@ -1,64 +1,69 @@
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Scanner;
 
 public class AdjacencyListRaggedArray {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-		Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
-		/*
-		 * Enter number of vertices
-		 */
-		System.out.print("Enter number of vertices:\n");
-		int n = sc.nextInt();
-		sc.nextLine();
+        /*
+	 * Create a linked list to store the vertices
+	 */
+        LinkedList<String> vertices = new LinkedList<>();
 
-		/*
-		 * Create the vertex labels
-		 */
-		System.out.print("Enter list of vertices:\n");
-		String input = sc.nextLine();
-		String[] label = input.split(" ");
+        /*
+	 * Enter number of vertices
+	 */
+        System.out.print("Enter the number of vertices:\n");
+        int n = sc.nextInt();
+        sc.nextLine();
 
-		/*
-		 * Create the ragged array to store the adjacency list
-		 */
-		int[][] adjacencyList = new int[n][];
-		for (int i = 0; i < n; i++) {
-			System.out.print("How many edges are associated with " + label[i] + "?\n");
-			int numEdges = sc.nextInt();
-			sc.nextLine();
+        /*
+	 * Enter list of vertices
+	 */
+        System.out.println("Enter list of vertices:");
+        String[] verticesInput = sc.nextLine().split(" ");
 
-			/*
-			 * Create an array to store the adjacent vertices
-			 */
-			adjacencyList[i] = new int[numEdges];
+        /*
+	 * Add vertices to the linked list
+	 */
+        for (String vertex : verticesInput) {
+            vertices.add(vertex);
+        }
 
-			System.out.print("Enter adjacent vertices to " + label[i] + "\n");
-			String adjacentVerticesInput = sc.nextLine();
-			String[] adjacentVertices = adjacentVerticesInput.split(" ");
-			for (int j = 0; j < numEdges; j++) {
-				for (int k = 0; k < n; k++) {
-					if (label[k].equals(adjacentVertices[j])) {
-						adjacencyList[i][j] = k;
-						break;
-					}
-				}
-			}
-		}
+        /*
+	 * Create the adjacency list using a list of linked lists
+	 */
+        List<LinkedList<String>> adjacencyList = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            adjacencyList.add(new LinkedList<>());
+        }
 
-		sc.close();
+        /*
+	 * Storing the edges
+	 */
+        for (int i = 0; i < n; i++) {
+            System.out.print("Enter adjacent vertices to " + vertices.get(i) + ":\n");
+            String[] edgesInput = sc.nextLine().split(" ");
+            for (String edge : edgesInput) {
+                adjacencyList.get(i).add(edge);
+            }
+        }
 
-		/*
-		 * Print the ragged ragged adjacency list
-		 */
-		System.out.println("\nFollowing graph is stored:");
-		for (int i = 0; i < adjacencyList.length; i++) {
-			for (int j = 0; j < adjacencyList[i].length; j++) {
-				System.out.print(adjacencyList[i][j] + " ");
-			}
-			System.out.println();
-		}
-	}
+        sc.close();
+
+        System.out.println("\nFollowing graph is stored:");
+        for (int i = 0; i < n; i++) {
+            LinkedList<String> adjacentList = adjacencyList.get(i);
+            for (int j = 0; j < adjacentList.size(); j++) {
+                System.out.print(adjacentList.get(j) + " ");
+            }
+            System.out.println();
+        }
+    }
 }
+
 
