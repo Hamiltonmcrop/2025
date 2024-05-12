@@ -1,6 +1,6 @@
 all: greetings
 greetings: hello.o bye.o main.o
-	gcc -o greetings hello.o bye.o main.o -Wall -Werror
+	gcc -o greetings hello.o bye.o main.o
 hello.o: hello.c main.h
 	gcc -c hello.c
 bye.o: bye.c main.h
