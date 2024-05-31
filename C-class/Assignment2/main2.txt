@@ -1,0 +1,1 @@
+To make the function find the total in a more efficient way,Instead of accessin g array[i][j] multiple times inside the condition, the value is stored in a local variable value. This makes the code a bit cleaner and can be more efficient as it reduces the number of array accesses
