@@ -14,8 +14,8 @@ int main(int arc,char** argv){
 	int thread_no=1;
 	if(argv >1)
 		sscanf(strdup(argv[1]),"%d",&thread_no);
-	fprint(stderr,"# of Deposit threads:%d\n ",thread_no);
-	fprint(stderr,"#of withdraw threads:%d\n",thread_no);
+	fprintf(stderr,"# of Deposit threads:%d\n ",thread_no);
+	fprintf(stderr,"#of withdraw threads:%d\n",thread_no);
 	pthread_mutex_init(&mutex,NULL);
 	pthread_t deposit_thread_id[thread_no];
 	pthread_t withdraw_thread_id[thread_no];
@@ -28,5 +28,5 @@ int main(int arc,char** argv){
 		pthread_join(withdraw_thread_id[i],NULL);
 	}
 	pthread_mutex_destroy(&mutex);
-	printf("final balance:%d.n",balance);
+	printf("final balance:%d.\n",balance);
 }
