@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- bootstrap -->
+  <link rel="stylesheet" href="./styles/bootstrap.min.css">
+  <!-- styles -->
+  <link rel="stylesheet" href="./styles/style.css">
+  <!-- fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+  <!-- fontawesome -->
+  <script defer src="https://kit.fontawesome.com/c0798638f8.js" crossorigin="anonymous"></script>
+  <!-- jquery -->
+  <script defer
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+  <!-- scripts -->
+  <script defer src="./scripts/app.js"></script>
+  <title>Abel Rop's Portfolio</title>
+</head>
+<body>
+  <div class="navbar">
+    <nav>
+      <a class="navbar-link" href="#home">Abel</a>
+      <a class="navbar-link" href="#about-me">About</a>
+      <a class="navbar-link" href="#projects">Projects</a>
+      <a class="navbar-link" href="#contact">Contact</a>
+      <!-- TODO  -->
+      <!-- needs more flow/call to action -->
+      <!-- dominik suggests pseudo-elem that pulls down with section image -->
+    </nav>
+  </div>
+  <hero>
+    <div id="home" class="hero-container hero-img-1">
+      <div class="title-card">
+        <h2>Abel Rop</h2>
+        <p>Full Stack Software Engineer | Team Player | Professional Learner</p>
+      </div>
+    </div>
+  </hero>
+  <section id="about-me">
+    <h2 class="sect-header">About Me</h2>
+    <div class="hero-container hero-img-2">
+      <div class="about-me-content">
+        <div class="about-me-content-container">
+          <img src="./images/julian-headshot.jpg" alt="julian-headshot" class="headshot">
+          <div class="about-me-text">
+            <h2>Who Is Abel Rop?</h2>
+            <p>I am a Kenyan full stack software engineer born in Keiyo and currently living in Narok.  My love of coding is only rivaled by my love of learning new things.  Nothing gets me more excited than taking something apart to learn how it ticks.  </p>
+            <div class="resume">
+              <a href="./images/juliansiow-resume.pdf" class="resume-link">
+                <h3>My Resume</h3>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="technologies">
+        <h2>Some Technologies I am Experienced With:</h2>
+        <div class="tech">
+            <i class="fab fa-react fa-3x"></i>
+            <h5 class="tech-title">React</h5>
+        </div>
+        <div class="tech">
+            <i class="fab fa-node-js fa-3x"></i>
+            <h5 class="tech-title">Node.js</h5>
+        </div>
+        <div class="tech">
+            <i class="fab fa-js fa-3x"></i>
+            <h5 class="tech-title">JavaScript</h5>
+        </div>
+        <div class="tech">
+            <i class="fab fa-python fa-3x"></i>
+            <h5 class="tech-title">Python</h5>
+        </div>
+        <div class="tech">
+            <i class="fab fa-github fa-3x"></i>
+            <h5 class="tech-title">GitHub</h5>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="projects">
+    <!-- TODO -->
+    <!-- Would benefit from something interesting to hold viewer attention -->
+    <h2 class="sect-header">Projects</h2>
+    <hero>
+      <a href="https://esports-trackr-frontend.herokuapp.com/">
+        <div class="hero-container hero-img-3 project-container">
+          <div class="project">
+            <img class="project-img" src="./images/capstone-league.png" alt="">
+            <div class="project-card">
+              <div class="project-desc">
+                <h4>Esports Trackr</h4>
+                <p>Esports Trackr is a web application designed for fans of Proffesional League of Legends.  It is designed to allow users to have discussions about matches that were played recently.</p>
+                <p>Esports Trackr was built utilising Mongoose, Express, React, and Node.js within one week.  This was a project that I built during my ALX Studies in a stack of my choosing as my final project. </p>
+              </div>
+            </div>
+          </div>
+        </a>
+        <a href="https://mesh-jsiow.herokuapp.com/">
+          <div class="project">
+              <img class="project-img" src="./images/mesh.png" alt="">
+              <div class="project-card">
+                <div class="project-desc">
+                  <h4>Mesh</h4>
+                  <p>Mesh is an application that was created to help companies to set up events as a way to recruit talented proffessionals.</p>
+                  <p>Mesh was completed using Django and PSQL with a team of 3 in a 1 week timeframe</p>
+                </div>
+              </div>
+          </div>
+        </a>
+        <a href="https://wayfarer-ca.herokuapp.com">
+          <div class="project">
+              <img class="project-img" src="./images/wayfarer-prev.png" alt="">
+              <div class="project-card">
+                <div class="project-desc">
+                  <h4>Project Wayfarer</h4>
+                  <p>Project Wayfarer is a project designed to simulate a client project, and is meant to test one's mastery of React and teamwork in a group of four.</p>
+                  <p>Project Wayfarer was completed utilising Mongo, Express, React, and Node.js within a one week timeframe</p>
+                </div>
+              </div>
+          </div>
+        </a>
+        <a href="https://illegalmemeexchange.herokuapp.com/">
+          <div class="project">
+              <img class="project-img" src="./images/IME.png" alt="">
+              <div class="project-card">
+                <div class="project-desc">
+                  <h4>Illegal Meme Exchange</h4>
+                  <p>The Illegal Meme Exchange is a base for a social application that allows users to share and consume memes.  Most content on the site is user generated.  </p>
+                  <p>This project was built with two people with the goal of learning Node.js.  The project was completed within a one week time frame.</p>
+                </div>
+              </div>
+          </div>
+        </a>
+        <a href="https://juliansiow.github.io/starter-assigner/">
+          <div class="project">
+              <img class="project-img" src="./images/starter-assigner.png" alt="">
+              <div class="project-card">
+                <div class="project-desc">
+                  <h4>Starter Assigner</h4>
+                  <p>Starter Assigner was built to allow groups of people who want to play a joint Pokemon run to randomly assign starters between three players.</p>
+                  <p>This was a small personal project that I built in a day.  It is a basic static site built with Object Orientation and utilising jQuery</p>
+                </div>
+              </div>
+          </div>
+        </a>
+      </div>
+    </hero>
+  </section>
+  <section id="contact">
+      <hero>
+          <div class="hero-container hero-img-4">
+            <div class="contact-container">
+              <h2>Contact Me</h2> 
+              <form action="https://formspree.io/xayqbnny" method="POST" class="contact-form">
+                <div class="form-group">
+                    <label for="subject">Your Name</label>
+                    <input type="text" class="form-control" name="name">
+                </div>
+                <div class="form-group">
+                  <label for="email">Your Email</label>
+                  <input type="email" class="form-control" name="_replyto">
+                </div>
+                <div class="form-group">
+                  <label for="body">Body</label>
+                  <textarea type="text" class="form-control" rows="10" name="body"></textarea>
+                </div>
+                <button class="btn" type="submit">Send</button>
+              </form>
+              <div class="icon-container">
+                <div class="contact-icon">
+                  <a href="https://www.linkedin.com/in/abel-mcrop/">
+                    <i class="fab fa-linkedin fa-3x"></i>
+                  </a>
+                </div>
+                <div class="contact-icon">
+                  <a href="https://github.com/hamiltonmcrop1">
+                    <i class="fab fa-github-square fa-3x"></i>
+                  </a>
+                </div>
+                <div class="contact-icon">
+                  <a href="hamiltonmcrop1@gmail.com">
+                    <i class="fas fa-envelope-square fa-3x"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </hero>
+  </section>
+</body>
+</html>
