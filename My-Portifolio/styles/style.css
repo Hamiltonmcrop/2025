@@ -1,0 +1,259 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  text-decoration: none !important;
+  color: rgb(220, 220, 220) !important;
+}
+
+/* SECTION  */
+/* ---------------------Navbar------------------------- */
+
+nav{
+  display: flex;
+  justify-content: center;
+  width: 100%
+}
+
+.navbar{
+  background-color: rgb(60, 60, 60);
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  width: 100%;
+}
+
+.navbar-link{
+  padding: 10px 25px;
+  display: inline-block;
+  transition: .3s;
+  font-size: 1.5em;
+  border-bottom: 5px solid rgb(60, 60, 60);
+  text-decoration: none;
+}
+
+.navbar-link:hover{
+  border-bottom: 5px solid rgb(220, 220, 220);
+  transition: .3s;
+}
+
+/* SECTION  */
+/* ------------------------ Title Section ---------------------- */
+
+.hero-container{
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  background-attachment: fixed;
+  border-bottom: 50px solid transparent;
+}
+
+.hero-img-1{
+  background-image: url("../images/graz-uhrturm.jpg");
+}
+
+.hero-img-2{
+  background-image: url("../images/murinselgraz.jpg");
+  height: 70vh;
+}
+
+.hero-img-3{
+  background-image: url("../images/sf-bay-bridge.jpeg");
+  min-height: 85vh;
+}
+
+.hero-img-4{
+  background-image: url("../images/desk-background.jpg");
+  background-position: left;
+}
+
+.title-card{
+  background-color: rgba(60, 60, 60, .8);
+  color: rgb(220, 220, 220);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  max-width: 900px;
+  padding: 25px;
+}
+
+.title-card h2{
+  text-align: center;
+  padding-bottom: 10px;
+  font-size: 2.5em;
+}
+
+.title-card p{
+  text-align: center;
+  font-size: 1.3em;
+}
+
+/* SECTION  */
+/* ----------------------------- About ---------------------------*/
+
+.about-me-content{
+  position: relative;
+  top: 35%;
+  left: 50%;
+  transform: translate(-65%, -50%);
+  background-color: rgba(60, 60, 60, .8);
+  color: rgb(220, 220, 220);
+  max-width: 75vw;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+.about-me-content h2{
+  font-size: 3em;
+  padding-bottom: .25em;
+}
+
+.about-me-content p{
+  font-size: 1.5em;
+}
+
+.about-me-content-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  padding-top: .5em;
+}
+
+.about-me-text{
+  padding-left: 1em;
+}
+
+.headshot{
+  max-height: 15em;
+}
+
+.resume{
+  display: flex;
+  flex-direction: row;
+  padding-top: 2.5%;
+}
+
+.resume-link{
+  margin-left: 2.5%;
+  padding: .5em;
+  border: 1px solid rgb(220, 220, 220);
+}
+
+.technologies{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(60, 60, 60, .8);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: .5em 0;
+  flex-wrap: wrap;
+  color: rgb(220, 220, 220);
+}
+
+/* SECTION  */
+/* ---------------------------- Projects ------------------------ */
+
+.sect-header{
+  background-color: rgb(70, 70, 70);
+  color: rgb(220, 220, 220);
+  text-align: center;
+  font-size: 2.5em;
+  height: fit-content;
+  padding: 30px;
+  letter-spacing: .2em;
+}
+
+.project-container{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 85vh;
+}
+
+.project{
+  position: relative;
+  height: 250px;
+  width: auto;
+  margin: 2em;
+}
+
+.project-img{
+  display: block;
+  width: auto;
+  height: 100%;
+}
+
+.project-card{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s;
+  background-color: #D96B2B;
+}
+
+.project:hover .project-card{
+  height: 100%;
+  cursor: pointer;
+}
+
+.project-desc p{
+  margin-top: 5px;
+  padding: 7px 7px;
+}
+
+/* SECTION  */
+/* -------------------------------- Contact -------------------------------- */
+
+.contact-container{
+  border: 1px solid rgb(220, 220, 220);
+  background-color: rgba(60, 60, 60, .8);
+  float: right;
+  margin: 10% 15% 0 0;
+  color: rgb(220, 220, 220);
+  padding: 0 25px 10px;
+  width: 500px;
+  border-radius: .5em;
+}
+
+.contact-container h2{
+  font-size: 2em;
+  padding: 25px 25px 10px;
+}
+
+.btn{
+  font-size: 1.5em;
+  padding: 5px 10px;
+  background-color: rgb(220, 220, 220);
+  color: rgb(70, 70, 70);
+  border: 1px solid transparent;
+  border-radius: .4rem;
+  opacity: 0.7;
+  transition: .3s
+}
+
+.btn:hover{
+  opacity: 1;
+} 
+
+.icon-container{
+  display: flex;
+  justify-content: center;
+}
+
+.contact-icon{
+  margin: 10px 20px;
+}
+
