@@ -1,0 +1,19 @@
+# Payckeck ID
+    # Paycheck Calculation Program in MIPSzy Assembly
+    # This program calculates a paycheck based on hours worked, pay rate per hour, and an optional bonus.
+
+    # Load hours worked, pay rate, and bonus from memory locations
+    lw $t0, 8196          # Load hoursWorked from memory location 8196 into register $t0
+    lw $t1, 8200          # Load payRate from memory location 8200 into register $t1
+    lw $t2, 8204          # Load bonus from memory location 8204 into register $t2
+
+    # Calculate hoursWorked * payRate
+    mul $t3, $t0, $t1     # $t3 = hoursWorked * payRate
+
+    # Add the bonus to the result
+    add $t4, $t3, $t2     # $t4 = (hoursWorked * payRate) + bonus
+
+    # Store the paycheck result in the output memory location
+    sw $t4, 8208          # Store paycheck in memory location 8208
+
+    # End of program
